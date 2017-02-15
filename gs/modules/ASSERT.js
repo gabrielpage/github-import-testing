@@ -11,8 +11,8 @@ function assertThat(actual, matcher){
     }
 }
 
-function fail(data){
-    throw new Error("Fail reached: " + data);
+function fail(){
+    throw new Error("Fail reached, should not have hit this line");
 }
 
 function greaterThanOrEqualTo(expected){

@@ -94,10 +94,6 @@ suite("Global Leaderboards basic tests", function(){
     
     test("getEntryCount, returns the entries that exist", function(){
         setLeaderboardData("CCL");
-        
-        var c = leaderboard.getEntryCount();
-        
-        var x = "x";
         assertThat(leaderboard.getEntryCount(), is(6));
     });
     

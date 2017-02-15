@@ -730,10 +730,10 @@ suite("Redis strings tests", function(){
     
     test("Redis set, set key to hold the string value, with exists check and time to live", function(){
         ensureAbsent(redis);
-        assertThat(redis.set(key, "One", "NX", "PX", 200), is("OK"));
+        assertThat(redis.set(key, "One", "NX", "PX", 20), is("OK"));
         assertThat(redis.get(key), is("One"));
         assertThat(redis.pttl(key), is(greaterThan(10)));
-        assertThat(redis.pttl(key), is(not(greaterThan(210))));
+        assertThat(redis.pttl(key), is(not(greaterThan(21))));
     });
     
     test("Redis set, with a null key, set key to hold the string value", function(){

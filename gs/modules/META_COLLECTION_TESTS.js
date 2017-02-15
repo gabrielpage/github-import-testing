@@ -193,13 +193,6 @@ suite("find Meta collection tests", function(){
         assertThat(theDocument.count(), is(1));
     });
     
-    test("find with count called on cursor doesn't impact subsequent read", function(){
-        var theDocument = meta.find({fieldA: "fieldA_4"},{numericValue:0});
-        assertThat(theDocument.count(), is(1));
-        assertThat(JSON.stringify(theDocument.toArray()), contains("fieldB_4"));
-        assertThat(JSON.stringify(theDocument.toArray()), not(contains("numericValue")));
-    });
-    
     test("find with empty query and remove value params returns the Documents", function(){
         var theDocument = meta.find({},{});
         assertThat(theDocument.count(), is(greaterThan(1)));

@@ -305,9 +305,8 @@ suite("find Runtime collection tests", function(){
     test("find with a curr and skip 1 returns the 2nd value in the cursor ", function(){
         var cursor = runtime.find().skip(1);
         if(cursor.hasNext()) {
-            cursor.next();
+            var obj = cursor.next();
             }
-            var obj = cursor.curr();
         assertThat(obj.fieldA, is("fieldA_2"));
     });
     

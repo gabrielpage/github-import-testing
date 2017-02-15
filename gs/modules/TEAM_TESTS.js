@@ -74,17 +74,6 @@ suite("Teams basic tests", function(){
         assertThat(team.getOwnerId(), is(ownerId));
     });
     
-    // Currently disabled due to too many false positives, needs investigation
-    // test("listChatMessages, stores a message for the team", function(){
-    //     var sendTeamChatMessageRequest = new SparkRequests.SendTeamChatMessageRequest();
-    //     sendTeamChatMessageRequest.message = "Team Message Test!";
-    //     sendTeamChatMessageRequest.ownerId = ownerId;
-    //     sendTeamChatMessageRequest.teamId = team.getTeamId();
-    //     sendTeamChatMessageRequest.teamType = team.getTeamType();
-    //     Spark.sendRequestAs(sendTeamChatMessageRequest, ownerId);
-    //    assertThat(team.listChatMessages(50, 0).length, is(not(0)));
-    // });
-    
     test("getTeamByOwnerIdAndTeamType is not null ", function(){
         var ownerTeam = Spark.getTeams().getTeamByOwnerIdAndTeamType(ownerId, "CCT");
         assertThat(ownerTeam.length, is(1));
@@ -121,6 +110,19 @@ suite("Teams basic tests", function(){
     test("removeMembers, with null id does nothing", function(){
         team.removeMembers(null);
         assertThat(team.getMemberIds().length, is(2));
+    });
+    
+    test("listChatMessages, lists the chat messages for the team", function(){
+        
+        var sendTeamChatMessageRequest = new SparkRequests.SendTeamChatMessageRequest();
+        sendTeamChatMessageRequest.message = "Team Message Test!";
+        sendTeamChatMessageRequest.ownerId = ownerId;
+        sendTeamChatMessageRequest.teamId = team.getTeamId();
+        sendTeamChatMessageRequest.teamType = team.getTeamType();
+        var res = Spark.sendRequestAs(sendTeamChatMessageRequest, ownerId);
+        Spark.getLog().debug(res);
+        var myMessages = team.listChatMessages(50, 0);
+        assertThat(myMessages.length, is(not(0)));
     });
     
     test("setOwnerId, sets new team owner", function(){

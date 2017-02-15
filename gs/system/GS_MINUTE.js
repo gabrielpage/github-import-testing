@@ -1,2 +1,0 @@
-//require("Messageprocessor");
-//require("Messagedispatcher");

@@ -44,11 +44,7 @@ function issueChallenge(players){
     var createChallengeRequest = new SparkRequests.CreateChallengeRequest();
     createChallengeRequest.challengeShortCode = "CCC";
     createChallengeRequest.usersToChallenge = players[0].userId;
-    var endTime = new Date();
-    endTime.setMinutes(endTime.getMinutes()+3);
-    endTime = endTime.toISOString();
-    var myTime = endTime.substring(0, endTime.length-8)+"Z";
-    createChallengeRequest.endTime = myTime;
+    createChallengeRequest.endTime = "2114-12-02T12:00Z";
     return Spark.sendRequestAs(createChallengeRequest, players[1].userId);
 }
 

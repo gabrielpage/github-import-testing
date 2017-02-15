@@ -14,57 +14,57 @@ suite("Basic Message tests", function(){
     listMessageRequest.entryCount = 1;
     
     test("sendMessage, sends a message to the player", function(){
-        Spark.sendMessage({"data" : "This is test Data!"}, player);
+        Spark.sendMessage({"data" : "This is a test Data!"}, player);
         var response = listMessageRequest.Send();
-        assertThat(response.messageList[0].data.data, is("This is test Data!"));
+        assertThat(response.messageList[0].data.data, is("This is a test Data!"));
     });
     
     test("sendMessageById, sends a message to the player", function(){
-        Spark.sendMessageById({"data" : "This is test Data!"}, player.getPlayerId());
+        Spark.sendMessageById({"data" : "This is a test Data!"}, player.getPlayerId());
         var response = listMessageRequest.Send();
-        assertThat(response.messageList[0].data.data, is("This is test Data!"));
+        assertThat(response.messageList[0].data.data, is("This is a test Data!"));
     });
     
     test("sendMessageWithoutPush, sends a message to the player", function(){
-        Spark.sendMessageWithoutPush({"data" : "This is test Data!"}, player);
+        Spark.sendMessageWithoutPush({"data" : "This is a test Data!"}, player);
         var response = listMessageRequest.Send();
-        assertThat(response.messageList[0].data.data, is("This is test Data!"));
+        assertThat(response.messageList[0].data.data, is("This is a test Data!"));
     });
     
     test("sendMessageByIdWithoutPush, sends a message to the player", function(){
-        Spark.sendMessageByIdWithoutPush({"data" : "This is test Data!"}, player.getPlayerId());
+        Spark.sendMessageByIdWithoutPush({"data" : "This is a test Data!"}, player.getPlayerId());
         var response = listMessageRequest.Send();
-        assertThat(response.messageList[0].data.data, is("This is test Data!"));
+        assertThat(response.messageList[0].data.data, is("This is a test Data!"));
     });
     
     test("sendMessageByIdExt, sends a message to the player", function(){
-        Spark.sendMessageExt({"data" : "This is test Data!"}, "CCM", player);
+        Spark.sendMessageExt({"data" : "This is a test Data!"}, "CCM", player);
         var response = listMessageRequest.Send();
         assertThat(response.messageList[0].summary, is("Summary"));
         assertThat(response.messageList[0].title, is("Title"));
         assertThat(response.messageList[0].subTitle, is("SubTitle"));
-        assertThat(response.messageList[0].data.data, is("This is test Data!"));
+        assertThat(response.messageList[0].data.data, is("This is a test Data!"));
         assertThat(response.messageList[0].extCode, is("CCM"));
     });
     
     test("sendMessageByIdExt, sends a message to the player", function(){
-        Spark.sendMessageByIdExt({"data" : "This is test Data!"}, "CCM", player.getPlayerId());
+        Spark.sendMessageByIdExt({"data" : "This is a test Data!"}, "CCM", player.getPlayerId());
         var response = listMessageRequest.Send();
         assertThat(response.messageList[0].summary, is("Summary"));
         assertThat(response.messageList[0].title, is("Title"));
         assertThat(response.messageList[0].subTitle, is("SubTitle"));
-        assertThat(response.messageList[0].data.data, is("This is test Data!"));
+        assertThat(response.messageList[0].data.data, is("This is a test Data!"));
         assertThat(response.messageList[0].extCode, is("CCM"));
     });
     
     test("dismissMessage, dismisses a message when one exists", function(){
-        Spark.sendMessage({"data" : "This is test Data!"}, player);
+        Spark.sendMessage({"data" : "This is a test Data!"}, player);
         var response = listMessageRequest.Send();
         assertThat(Spark.dismissMessage(response.messageList[0].messageId), is(true));
     });
     
     test("dismissMessage, returns false when a message doesn't exist", function(){
-        Spark.sendMessage({"data" : "This is test Data!"}, player);
+        Spark.sendMessage({"data" : "This is a test Data!"}, player);
         var response = listMessageRequest.Send();
         assertThat(Spark.dismissMessage("invalid_id"), is(false));
     });    

@@ -111,16 +111,24 @@ suite("Basic JSON reader tests", function(){
     //     assertThat(uploadedJson, is(not(null)));
     // });
     
-    test("uploadedJson with invalid id, returns null", function(){
+    test("uploadedJson with invalid id, Throws Null Pointer Exception", function(){
         
-        var invalidIdResponse = Spark.uploadedJson("invalid_id");
-        assertThat(invalidIdResponse, is(null));
+        try{
+            Spark.uploadedJson("invalid_id");
+            fail();
+         } catch(e){
+             assertThat(e.message, contains("java.lang.NullPointerException: null"));
+        }
     });
     
-    test("uploadedJson with null id, returns null", function(){
+    test("uploadedJson with null id, Throws Null Pointer Exception", function(){
         
-        var nullJsonResponse = Spark.uploadedJson(null);
-        assertThat(nullJsonResponse, is(null));
+        try{
+            Spark.uploadedJson(null);
+            fail();
+         } catch(e){
+             assertThat(e.message, contains("java.lang.NullPointerException: null"));
+        }
     });
     
     test("downloadableJson returns the uploaded JSON", function(){

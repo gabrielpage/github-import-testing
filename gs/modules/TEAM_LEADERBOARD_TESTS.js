@@ -34,7 +34,7 @@ function setTeamLeaderboardData(leaderboard){
         logEventRequest.eventKey = leaderboard;
         logEventRequest.SCORE = 100+(i*100);
         var resp = logEventRequest.SendAs(players[i].userId);
-        // TODO: validate the response was a success and blow up if not
+        var pott ="asd";
     }
     return players;
 }
@@ -137,7 +137,7 @@ suite("Team Leaderboards basic tests", function(){
     
     test("getLeaderboard, returns an empty leaderboard, when teamIds are not valid", function(){
         clearLeaderboard(leaderboardShortcode);
-        assertThat(Spark.getLeaderboards().getTeamLeaderboard(leaderboardShortcode, "invalid_teamId").getEntryCount(), is(0));
+        assertThat(Spark.getLeaderboards().getTeamLeaderboard("CCL", "invalid_teamId").getEntryCount(), is(0));
     });
     
     test("getLeaderboard with null leaderboard, Throws Null Pointer Exception", function(){
@@ -150,10 +150,14 @@ suite("Team Leaderboards basic tests", function(){
         }
     });
     
-    test("getLeaderboard with null teamIds", function(){
+    test("getLeaderboard with null teamIds, Throws Mongo Exception", function(){
         clearLeaderboard(leaderboardShortcode);
-        assertThat(Spark.getLeaderboards().getTeamLeaderboard(leaderboardShortcode, null).getEntryCount(), is(0));
-        
+        try{
+        Spark.getLeaderboards().getTeamLeaderboard(leaderboardShortcode, null);
+        fail();
+         } catch(e){
+             assertThat(e.message, contains("com.mongodb.MongoException: Can't canonicalize query"));
+        }
     });
 
     test("getShortCode, returns the shortCode for the leaderboard", function(){

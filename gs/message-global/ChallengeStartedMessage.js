@@ -6,4 +6,5 @@
 //
 // ====================================================================================================
 
+Spark.getLog().debug("monitor ping");
 Spark.setScriptData("ping-global-message", new Date());
