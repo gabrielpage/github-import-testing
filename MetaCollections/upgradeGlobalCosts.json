@@ -1,0 +1,16 @@
+[
+    {
+        "ClientData": {
+            "ExpediteFreeMinutesRemaining": 1
+        },
+        "ServerData": {
+            "BrakesMultiplier": 0.9549999833106995,
+            "HandlingMultiplier": 1.159999966621399,
+            "PowerMultiplier": 1,
+            "WeightMultiplier": 0.8949999809265137
+        },
+        "_id": {
+            "$oid": "56ea822b2a881f05b55184e7"
+        }
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "BoxType": "Silver",
+        "PrizeGroups": [
+            {
+                "FriendlyName": "Gold Prizes",
+                "PrizeGroupPrizeEntries": [
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            40
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 50
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            80
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 25
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            160
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 17
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            320
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 8
+                    }
+                ],
+                "PrizeGroups": [],
+                "Weight": 50
+            },
+            {
+                "FriendlyName": "Pro Pack Prizes",
+                "PrizeGroupPrizeEntries": [
+                    {
+                        "BlueprintOrProPackClass": "B",
+                        "BlueprintOrProPackCount": 1,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "ProPack",
+                        "Weight": 66
+                    },
+                    {
+                        "BlueprintOrProPackClass": "A",
+                        "BlueprintOrProPackCount": 1,
+                        "FriendlyName": null,
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "ProPack",
+                        "Weight": 33
+                    }
+                ],
+                "PrizeGroups": [],
+                "Weight": 25
+            },
+            {
+                "FriendlyName": "Blueprint Prizes",
+                "PrizeGroupPrizeEntries": [],
+                "PrizeGroups": [
+                    {
+                        "FriendlyName": "Class B Blueprints",
+                        "PrizeGroupPrizeEntries": [
+                            {
+                                "BlueprintOrProPackClass": "B",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 50
+                            },
+                            {
+                                "BlueprintOrProPackClass": "B",
+                                "BlueprintOrProPackCount": 2,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 35
+                            },
+                            {
+                                "BlueprintOrProPackClass": "B",
+                                "BlueprintOrProPackCount": 4,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 15
+                            }
+                        ],
+                        "PrizeGroups": [],
+                        "Weight": 66
+                    },
+                    {
+                        "FriendlyName": "Class A Blueprints",
+                        "PrizeGroupPrizeEntries": [
+                            {
+                                "BlueprintOrProPackClass": "A",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 50
+                            },
+                            {
+                                "BlueprintOrProPackClass": "A",
+                                "BlueprintOrProPackCount": 2,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 35
+                            },
+                            {
+                                "BlueprintOrProPackClass": "A",
+                                "BlueprintOrProPackCount": 4,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 15
+                            }
+                        ],
+                        "PrizeGroups": [],
+                        "Weight": 33
+                    }
+                ],
+                "Weight": 25
+            }
+        ],
+        "_id": {
+            "$oid": "56b4e640e4b0972109201551"
+        }
+    },
+    {
+        "BoxType": "Bronze",
+        "PrizeGroups": [
+            {
+                "FriendlyName": "Cash Prizes",
+                "PrizeGroupPrizeEntries": [
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "Normal Cash",
+                        "LeveledCashValues": [
+                            25,
+                            30,
+                            40,
+                            44,
+                            47,
+                            50,
+                            60,
+                            80,
+                            110,
+                            130,
+                            160,
+                            190,
+                            200,
+                            260,
+                            300,
+                            400,
+                            500,
+                            550,
+                            600,
+                            800,
+                            1100,
+                            1500,
+                            1800,
+                            2200,
+                            2500,
+                            2900,
+                            4000,
+                            5000,
+                            6000,
+                            8000,
+                            9000,
+                            10000,
+                            12000,
+                            15000,
+                            18000,
+                            21000,
+                            24000,
+                            25000,
+                            40000,
+                            50000,
+                            60000,
+                            80000,
+                            90000,
+                            100000,
+                            120000,
+                            160000,
+                            190000,
+                            230000,
+                            260000,
+                            300000
+                        ],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "Cash",
+                        "Weight": 50
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "Nice Cash",
+                        "LeveledCashValues": [
+                            50,
+                            60,
+                            80,
+                            88,
+                            94,
+                            100,
+                            120,
+                            160,
+                            220,
+                            260,
+                            320,
+                            380,
+                            400,
+                            520,
+                            600,
+                            800,
+                            1000,
+                            1100,
+                            1200,
+                            1600,
+                            2200,
+                            3000,
+                            3600,
+                            4400,
+                            5000,
+                            5800,
+                            8000,
+                            10000,
+                            12000,
+                            16000,
+                            18000,
+                            20000,
+                            24000,
+                            30000,
+                            36000,
+                            42000,
+                            48000,
+                            50000,
+                            80000,
+                            100000,
+                            120000,
+                            160000,
+                            180000,
+                            200000,
+                            240000,
+                            320000,
+                            380000,
+                            460000,
+                            520000,
+                            600000
+                        ],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "Cash",
+                        "Weight": 25
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "Very Nice Cash",
+                        "LeveledCashValues": [
+                            100,
+                            120,
+                            160,
+                            176,
+                            188,
+                            200,
+                            240,
+                            320,
+                            440,
+                            520,
+                            640,
+                            760,
+                            800,
+                            1040,
+                            1200,
+                            1600,
+                            2000,
+                            2200,
+                            2400,
+                            3200,
+                            4400,
+                            6000,
+                            7200,
+                            8800,
+                            10000,
+                            11600,
+                            16000,
+                            20000,
+                            24000,
+                            32000,
+                            36000,
+                            40000,
+                            48000,
+                            60000,
+                            72000,
+                            84000,
+                            96000,
+                            100000,
+                            160000,
+                            200000,
+                            240000,
+                            320000,
+                            360000,
+                            400000,
+                            480000,
+                            640000,
+                            760000,
+                            920000,
+                            1040000,
+                            1200000
+                        ],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "Cash",
+                        "Weight": 17
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "Woohoo Cash",
+                        "LeveledCashValues": [
+                            200,
+                            240,
+                            320,
+                            352,
+                            376,
+                            400,
+                            480,
+                            640,
+                            880,
+                            1040,
+                            1280,
+                            1520,
+                            1600,
+                            2080,
+                            2400,
+                            3200,
+                            4000,
+                            4400,
+                            4800,
+                            6400,
+                            8800,
+                            12000,
+                            14400,
+                            17600,
+                            20000,
+                            23200,
+                            32000,
+                            40000,
+                            48000,
+                            64000,
+                            72000,
+                            80000,
+                            96000,
+                            120000,
+                            144000,
+                            168000,
+                            192000,
+                            200000,
+                            320000,
+                            400000,
+                            480000,
+                            640000,
+                            720000,
+                            800000,
+                            960000,
+                            1280000,
+                            1520000,
+                            1840000,
+                            2080000,
+                            2400000
+                        ],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "Cash",
+                        "Weight": 8
+                    }
+                ],
+                "PrizeGroups": [],
+                "Weight": 67
+            },
+            {
+                "FriendlyName": "Other Prize",
+                "PrizeGroupPrizeEntries": [
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": null,
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            5,
+                            5,
+                            5,
+                            5,
+                            10,
+                            10,
+                            10,
+                            10,
+                            10,
+                            10,
+                            10,
+                            10,
+                            10,
+                            10,
+                            15,
+                            15,
+                            20,
+                            15,
+                            15,
+                            15,
+                            15,
+                            15,
+                            15,
+                            15,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            20,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25,
+                            25
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 30
+                    }
+                ],
+                "PrizeGroups": [
+                    {
+                        "FriendlyName": "Pro Pack Prizes",
+                        "PrizeGroupPrizeEntries": [
+                            {
+                                "BlueprintOrProPackClass": "C",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "ProPack",
+                                "Weight": 66
+                            },
+                            {
+                                "BlueprintOrProPackClass": "B",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "ProPack",
+                                "Weight": 33
+                            }
+                        ],
+                        "PrizeGroups": [],
+                        "Weight": 50
+                    },
+                    {
+                        "FriendlyName": "Car Blueprint Prizes",
+                        "PrizeGroupPrizeEntries": [
+                            {
+                                "BlueprintOrProPackClass": "C",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 66
+                            },
+                            {
+                                "BlueprintOrProPackClass": "B",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 33
+                            }
+                        ],
+                        "PrizeGroups": [],
+                        "Weight": 20
+                    }
+                ],
+                "Weight": 33
+            }
+        ],
+        "_id": {
+            "$oid": "5720c38bc99d8fd39f38b64b"
+        }
+    },
+    {
+        "BoxType": "Gold",
+        "PrizeGroups": [
+            {
+                "FriendlyName": "Gold Prizes",
+                "PrizeGroupPrizeEntries": [
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            200
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 50
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            400
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 25
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            800
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 17
+                    },
+                    {
+                        "BlueprintOrProPackClass": "",
+                        "BlueprintOrProPackCount": 0,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [
+                            1600
+                        ],
+                        "PrizeType": "Gold",
+                        "Weight": 8
+                    }
+                ],
+                "PrizeGroups": [],
+                "Weight": 50
+            },
+            {
+                "FriendlyName": "Pro Pack Prizes",
+                "PrizeGroupPrizeEntries": [
+                    {
+                        "BlueprintOrProPackClass": "A",
+                        "BlueprintOrProPackCount": 1,
+                        "FriendlyName": "",
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "ProPack",
+                        "Weight": 66
+                    },
+                    {
+                        "BlueprintOrProPackClass": "S",
+                        "BlueprintOrProPackCount": 1,
+                        "FriendlyName": null,
+                        "LeveledCashValues": [],
+                        "LeveledGoldValues": [],
+                        "PrizeType": "ProPack",
+                        "Weight": 33
+                    }
+                ],
+                "PrizeGroups": [],
+                "Weight": 25
+            },
+            {
+                "FriendlyName": "Blueprint Prizes",
+                "PrizeGroupPrizeEntries": [],
+                "PrizeGroups": [
+                    {
+                        "FriendlyName": "Class A Blueprints",
+                        "PrizeGroupPrizeEntries": [
+                            {
+                                "BlueprintOrProPackClass": "A",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 50
+                            },
+                            {
+                                "BlueprintOrProPackClass": "A",
+                                "BlueprintOrProPackCount": 2,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 35
+                            },
+                            {
+                                "BlueprintOrProPackClass": "A",
+                                "BlueprintOrProPackCount": 4,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 15
+                            }
+                        ],
+                        "PrizeGroups": [],
+                        "Weight": 66
+                    },
+                    {
+                        "FriendlyName": "Class S Blueprints",
+                        "PrizeGroupPrizeEntries": [
+                            {
+                                "BlueprintOrProPackClass": "S",
+                                "BlueprintOrProPackCount": 1,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 50
+                            },
+                            {
+                                "BlueprintOrProPackClass": "S",
+                                "BlueprintOrProPackCount": 2,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 35
+                            },
+                            {
+                                "BlueprintOrProPackClass": "S",
+                                "BlueprintOrProPackCount": 4,
+                                "FriendlyName": null,
+                                "LeveledCashValues": [],
+                                "LeveledGoldValues": [],
+                                "PrizeType": "BlueprintPiece",
+                                "Weight": 15
+                            }
+                        ],
+                        "PrizeGroups": [],
+                        "Weight": 33
+                    }
+                ],
+                "Weight": 25
+            }
+        ],
+        "_id": {
+            "$oid": "5748302dd0c95d0607bac174"
+        }
+    }
+]

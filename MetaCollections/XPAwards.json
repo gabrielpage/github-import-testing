@@ -1,0 +1,37 @@
+[
+    {
+        "Action": "Win",
+        "Value": 75,
+        "_id": {
+            "$oid": "56977f1ce4b097c8e6d3299a"
+        }
+    },
+    {
+        "Action": "Lose",
+        "Value": 25,
+        "_id": {
+            "$oid": "56977f3fe4b097c8e6d3299b"
+        }
+    },
+    {
+        "Action": "PurchaseCar",
+        "Value": 100,
+        "_id": {
+            "$oid": "56977f4be4b097c8e6d3299c"
+        }
+    },
+    {
+        "Action": "PurchaseUpgrade",
+        "Value": 35,
+        "_id": {
+            "$oid": "56977f51e4b097c8e6d3299d"
+        }
+    },
+    {
+        "Action": "FinishRace",
+        "Value": 200,
+        "_id": {
+            "$oid": "570f691da320de0601e81ee8"
+        }
+    }
+]

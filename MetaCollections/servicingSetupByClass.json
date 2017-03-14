@@ -1,0 +1,118 @@
+[
+    {
+        "Class": "C",
+        "LapsBeforeServiceWhenNew": 55,
+        "LapsGainedFromWatchingVideo": 10,
+        "MinutesBetweenVideoWatch": 5,
+        "ServiceCosts": [
+            645,
+            2727,
+            8291
+        ],
+        "ServiceTimeInMinutes": [
+            5,
+            20,
+            30,
+            60,
+            120,
+            240,
+            240,
+            240,
+            480
+        ],
+        "_id": {
+            "$oid": "5755840ed0c95d0607ec3b1c"
+        }
+    },
+    {
+        "Class": "B",
+        "LapsBeforeServiceWhenNew": 110,
+        "LapsGainedFromWatchingVideo": 8,
+        "MinutesBetweenVideoWatch": 60,
+        "ServiceCosts": [
+            17100,
+            76498,
+            235565
+        ],
+        "ServiceTimeInMinutes": [
+            20,
+            30,
+            60,
+            120,
+            240,
+            240,
+            240,
+            480
+        ],
+        "_id": {
+            "$oid": "57558527d0c95d0607ec3b20"
+        }
+    },
+    {
+        "Class": "A",
+        "LapsBeforeServiceWhenNew": 154,
+        "LapsGainedFromWatchingVideo": 6,
+        "MinutesBetweenVideoWatch": 480,
+        "ServiceCosts": [
+            287128,
+            1273804,
+            3915382
+        ],
+        "ServiceTimeInMinutes": [
+            30,
+            60,
+            120,
+            240,
+            240,
+            240,
+            480
+        ],
+        "_id": {
+            "$oid": "5761437e6632220604fe4624"
+        }
+    },
+    {
+        "Class": "S",
+        "LapsBeforeServiceWhenNew": 169,
+        "LapsGainedFromWatchingVideo": 4,
+        "MinutesBetweenVideoWatch": 1440,
+        "ServiceCosts": [
+            1750547,
+            6652079,
+            19693654
+        ],
+        "ServiceTimeInMinutes": [
+            60,
+            120,
+            240,
+            240,
+            240,
+            480
+        ],
+        "_id": {
+            "$oid": "576144986632220604fe462a"
+        }
+    },
+    {
+        "Class": "SPP",
+        "LapsBeforeServiceWhenNew": 169,
+        "LapsGainedFromWatchingVideo": 4,
+        "MinutesBetweenVideoWatch": 1440,
+        "ServiceCosts": [
+            6564551,
+            10503282,
+            19693654
+        ],
+        "ServiceTimeInMinutes": [
+            60,
+            120,
+            240,
+            240,
+            240,
+            480
+        ],
+        "_id": {
+            "$oid": "5761450d9c342e05fe5010a9"
+        }
+    }
+]

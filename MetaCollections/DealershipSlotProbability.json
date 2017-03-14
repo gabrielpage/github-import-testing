@@ -1,0 +1,72 @@
+[
+    {
+        "ExpiryRangeEnd": 1800,
+        "ExpiryRangeStart": 150,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 3,
+        "_id": {
+            "$oid": "56e801eb2a881f05b510dee0"
+        }
+    },
+    {
+        "ExpiryRangeEnd": 14400,
+        "ExpiryRangeStart": 1800,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 3,
+        "_id": {
+            "$oid": "56e801fdade40705e76ef1b0"
+        }
+    },
+    {
+        "ExpiryRangeEnd": 18000,
+        "ExpiryRangeStart": 3600,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 1,
+        "_id": {
+            "$oid": "56e802102a881f05b510df4f"
+        }
+    },
+    {
+        "ExpiryRangeEnd": 21600,
+        "ExpiryRangeStart": 5400,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 1,
+        "_id": {
+            "$oid": "56e8021f2a881f05b510dfbe"
+        }
+    },
+    {
+        "ExpiryRangeEnd": 25200,
+        "ExpiryRangeStart": 7200,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 1,
+        "_id": {
+            "$oid": "56e8022e2a881f05b5111d61"
+        }
+    },
+    {
+        "ExpiryRangeEnd": 43200,
+        "ExpiryRangeStart": 36000,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 2,
+        "_id": {
+            "$oid": "56e8023eade40705e76ef30f"
+        }
+    },
+    {
+        "ExpiryRangeEnd": 86400,
+        "ExpiryRangeStart": 72000,
+        "TimeToRefreshRangeEnd": 3,
+        "TimeToRefreshRangeStart": 3,
+        "Weight": 1,
+        "_id": {
+            "$oid": "56e80252ade40705e76ef367"
+        }
+    }
+]

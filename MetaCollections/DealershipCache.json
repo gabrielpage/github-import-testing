@@ -1,0 +1,4594 @@
+[
+    {
+        "Key": "ClassB.Rare.1",
+        "Value": "56ceef8be4b07371e6a6c173",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7207"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.1",
+        "Value": "56cf25ebe4b0007fa6b0b878",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7208"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.2",
+        "Value": "56cf25ece4b0007fa6b0b883",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7209"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.2",
+        "Value": "56cf25ede4b0007fa6b0b88a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b720a"
+        }
+    },
+    {
+        "Key": "ClassC.Common.1",
+        "Value": "57237cfc80e2e01df79546a8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b720b"
+        }
+    },
+    {
+        "Key": "ClassB.Common.1",
+        "Value": "56cf25f1e4b0007fa6b0b8a6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b720c"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.3",
+        "Value": "56cf25f2e4b0007fa6b0b8b5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b720d"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.4",
+        "Value": "56cf25f3e4b0007fa6b0b8bf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b720e"
+        }
+    },
+    {
+        "Key": "ClassB.Common.2",
+        "Value": "56cf25f4e4b0007fa6b0b8c6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b720f"
+        }
+    },
+    {
+        "Key": "ClassB.Common.3",
+        "Value": "56cf25f6e4b0007fa6b0b8da",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7210"
+        }
+    },
+    {
+        "Key": "ClassB.Common.4",
+        "Value": "56cf25f7e4b0007fa6b0b8e4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7211"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.5",
+        "Value": "56cf25f8e4b0007fa6b0b8f2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7212"
+        }
+    },
+    {
+        "Key": "ClassB.Common.5",
+        "Value": "56cf25fde4b0007fa6b0b923",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7213"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.6",
+        "Value": "56cf25fee4b0007fa6b0b924",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7214"
+        }
+    },
+    {
+        "Key": "ClassB.Common.6",
+        "Value": "56cf25ffe4b0007fa6b0b925",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7215"
+        }
+    },
+    {
+        "Key": "ClassB.Common.7",
+        "Value": "56cf2603e4b0007fa6b0b92c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7216"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.7",
+        "Value": "56cf2608e4b0007fa6b0b947",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7217"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.8",
+        "Value": "56cf260ae4b0007fa6b0b949",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7218"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.9",
+        "Value": "56cf260ae4b0007fa6b0b94a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7219"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.10",
+        "Value": "56cf260ce4b0007fa6b0b94b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b721a"
+        }
+    },
+    {
+        "Key": "ClassC.Common.2",
+        "Value": "57237cfb80e2e01df79546a7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b721b"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.11",
+        "Value": "56cf260de4b0007fa6b0b94c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b721c"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.12",
+        "Value": "56cf260ee4b0007fa6b0b94d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b721d"
+        }
+    },
+    {
+        "Key": "ClassB.Common.8",
+        "Value": "56cf2616e4b0007fa6b0b976",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b721e"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.13",
+        "Value": "560bcfa6e4b019aeab9a757b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b721f"
+        }
+    },
+    {
+        "Key": "ClassB.Common.9",
+        "Value": "560922f9e4b0969aec29e060",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7220"
+        }
+    },
+    {
+        "Key": "ClassC.Common.3",
+        "Value": "56572bbbe4b09bd2f022cb9d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7221"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.1",
+        "Value": "562f9ec0e4b0ae5f3f4fe7f4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7222"
+        }
+    },
+    {
+        "Key": "ClassB.Common.10",
+        "Value": "560922f0e4b0969aec29e033",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7223"
+        }
+    },
+    {
+        "Key": "ClassB.Common.11",
+        "Value": "560bcf94e4b0969aec3482b7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7224"
+        }
+    },
+    {
+        "Key": "ClassB.Common.12",
+        "Value": "56cf2605e4b0007fa6b0b944",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7225"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.1",
+        "Value": "565c71b8e4b0f1c72f6e104e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7226"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.2",
+        "Value": "56f3bae62a881f05b52fc6d6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7227"
+        }
+    },
+    {
+        "Key": "ClassC.Common.4",
+        "Value": "56f3bae82a881f05b52fc6d7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7228"
+        }
+    },
+    {
+        "Key": "ClassC.Common.5",
+        "Value": "56f3baeb2a881f05b52fc6d8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7229"
+        }
+    },
+    {
+        "Key": "ClassC.Common.6",
+        "Value": "56f3baec2a881f05b52fc6d9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b722a"
+        }
+    },
+    {
+        "Key": "ClassC.Common.7",
+        "Value": "56f3baec2a881f05b52fc6da",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b722b"
+        }
+    },
+    {
+        "Key": "ClassC.Common.8",
+        "Value": "56f3baed2a881f05b52fc6db",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b722c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.3",
+        "Value": "56f3baefade40705e74c6c4e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b722d"
+        }
+    },
+    {
+        "Key": "ClassC.Common.9",
+        "Value": "56f3baf0ade40705e74c6c4f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b722e"
+        }
+    },
+    {
+        "Key": "ClassC.Common.10",
+        "Value": "56f3baf1ade40705e74c6c50",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b722f"
+        }
+    },
+    {
+        "Key": "ClassC.Common.11",
+        "Value": "56f3baf2ade40705e74c6c51",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7230"
+        }
+    },
+    {
+        "Key": "ClassC.Common.12",
+        "Value": "56f3baf3ade40705e74c6c52",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7231"
+        }
+    },
+    {
+        "Key": "ClassC.Common.13",
+        "Value": "56f3baf4ade40705e74c6c53",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7232"
+        }
+    },
+    {
+        "Key": "ClassC.Common.14",
+        "Value": "56f3baf4ade40705e74c6c54",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7233"
+        }
+    },
+    {
+        "Key": "ClassC.Common.15",
+        "Value": "56f3baf5ade40705e74c6c55",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7234"
+        }
+    },
+    {
+        "Key": "ClassC.Common.16",
+        "Value": "56f3baf6ade40705e74c6c56",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7235"
+        }
+    },
+    {
+        "Key": "ClassC.Common.17",
+        "Value": "56f3baf7ade40705e74c6c57",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7236"
+        }
+    },
+    {
+        "Key": "ClassC.Common.18",
+        "Value": "56f3baf8ade40705e74c6c58",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7237"
+        }
+    },
+    {
+        "Key": "ClassC.Common.19",
+        "Value": "56f3baf9ade40705e74c6c59",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7238"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.4",
+        "Value": "56f3bb0e2a881f05b52fc6de",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7239"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.5",
+        "Value": "56f3bb0f2a881f05b52fc6df",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b723a"
+        }
+    },
+    {
+        "Key": "ClassC.Common.20",
+        "Value": "56f3bb102a881f05b52fc6e3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b723b"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.2",
+        "Value": "56f3bb132a881f05b52fc6eb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b723c"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.3",
+        "Value": "570794b6a320de0601ba61a2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b723d"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.4",
+        "Value": "570794b8a320de0601ba61a3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b723e"
+        }
+    },
+    {
+        "Key": "ClassA.Common.1",
+        "Value": "570794b9a320de0601ba61a4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b723f"
+        }
+    },
+    {
+        "Key": "ClassA.Common.2",
+        "Value": "570794bba320de0601ba61a5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7240"
+        }
+    },
+    {
+        "Key": "ClassA.Common.3",
+        "Value": "570794bca320de0601ba61a6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7241"
+        }
+    },
+    {
+        "Key": "ClassA.Common.4",
+        "Value": "570794bda320de0601ba61a7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7242"
+        }
+    },
+    {
+        "Key": "ClassA.Common.5",
+        "Value": "570794c0a320de0601ba61a9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7243"
+        }
+    },
+    {
+        "Key": "ClassA.Common.6",
+        "Value": "570794c1a320de0601ba61aa",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7244"
+        }
+    },
+    {
+        "Key": "ClassA.Common.7",
+        "Value": "570794c2a320de0601ba61ab",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7245"
+        }
+    },
+    {
+        "Key": "ClassA.Common.8",
+        "Value": "570794c4a320de0601ba61ac",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7246"
+        }
+    },
+    {
+        "Key": "ClassA.Common.9",
+        "Value": "570794c6a320de0601ba61ad",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7247"
+        }
+    },
+    {
+        "Key": "ClassA.Common.10",
+        "Value": "570794c8a320de0601ba61ae",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7248"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.6",
+        "Value": "5707950e7f416a06025e101d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7249"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.7",
+        "Value": "5707950f7f416a06025e101e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b724a"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.8",
+        "Value": "570795107f416a06025e101f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b724b"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.9",
+        "Value": "570795117f416a06025e1020",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b724c"
+        }
+    },
+    {
+        "Key": "ClassC.Common.21",
+        "Value": "570795127f416a06025e1022",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b724d"
+        }
+    },
+    {
+        "Key": "ClassB.Common.13",
+        "Value": "57d815e4d0281c0560b7b6d1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b724e"
+        }
+    },
+    {
+        "Key": "ClassC.Common.22",
+        "Value": "570795137f416a06025e1024",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b724f"
+        }
+    },
+    {
+        "Key": "ClassC.Common.23",
+        "Value": "570795147f416a06025e1025",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7250"
+        }
+    },
+    {
+        "Key": "ClassC.Common.24",
+        "Value": "570795157f416a06025e1026",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7251"
+        }
+    },
+    {
+        "Key": "ClassC.Common.25",
+        "Value": "570795177f416a06025e1028",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7252"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.10",
+        "Value": "5707952a7f416a06025e1047",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7253"
+        }
+    },
+    {
+        "Key": "ClassC.Common.26",
+        "Value": "57237cf180e2e01df795469c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7254"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.1",
+        "Value": "5707952f7f416a06025e106d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7255"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.2",
+        "Value": "571511e1c29058d695345edc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7256"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.3",
+        "Value": "571511e3c29058d695345ede",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7257"
+        }
+    },
+    {
+        "Key": "ClassC.Common.27",
+        "Value": "571511e4c29058d695345edf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7258"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.11",
+        "Value": "571511e5c29058d695345ee0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7259"
+        }
+    },
+    {
+        "Key": "ClassC.Common.28",
+        "Value": "571511e7c29058d695345ee1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b725a"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.12",
+        "Value": "571511e8c29058d695345ee2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b725b"
+        }
+    },
+    {
+        "Key": "ClassC.Common.29",
+        "Value": "571511e9c29058d695345ee3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b725c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.13",
+        "Value": "571511eac29058d695345ee4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b725d"
+        }
+    },
+    {
+        "Key": "ClassC.Common.30",
+        "Value": "571511ebc29058d695345ee5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b725e"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.14",
+        "Value": "571511ecc29058d695345ee6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b725f"
+        }
+    },
+    {
+        "Key": "ClassC.Common.31",
+        "Value": "571511edc29058d695345ee7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7260"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.15",
+        "Value": "571511f2c29058d695345ee8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7261"
+        }
+    },
+    {
+        "Key": "ClassC.Common.32",
+        "Value": "571511ffc29058d695345ee9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7262"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.16",
+        "Value": "57151218c29058d695345eea",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7263"
+        }
+    },
+    {
+        "Key": "ClassC.Common.33",
+        "Value": "57151219c29058d695345eeb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7264"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.17",
+        "Value": "5715121bc29058d695345eec",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7265"
+        }
+    },
+    {
+        "Key": "ClassC.Common.34",
+        "Value": "5715121cc29058d695345eed",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7266"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.18",
+        "Value": "5715121dc29058d695345eee",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7267"
+        }
+    },
+    {
+        "Key": "ClassC.Common.35",
+        "Value": "5715121ec29058d695345eef",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7268"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.19",
+        "Value": "57151221c29058d695345ef0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7269"
+        }
+    },
+    {
+        "Key": "ClassC.Common.36",
+        "Value": "57151223c29058d695345ef1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b726a"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.20",
+        "Value": "57151225c29058d695345ef2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b726b"
+        }
+    },
+    {
+        "Key": "ClassC.Common.37",
+        "Value": "57151227c29058d695345ef3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b726c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.21",
+        "Value": "57151228c29058d695345ef4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b726d"
+        }
+    },
+    {
+        "Key": "ClassC.Common.38",
+        "Value": "5715122ac29058d695345ef5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b726e"
+        }
+    },
+    {
+        "Key": "ClassC.Common.39",
+        "Value": "5715122bc29058d695345ef6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b726f"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.22",
+        "Value": "5715122cc29058d695345ef7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7270"
+        }
+    },
+    {
+        "Key": "ClassC.Common.40",
+        "Value": "5715122ec29058d695345ef8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7271"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.23",
+        "Value": "5715122fc29058d695345ef9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7272"
+        }
+    },
+    {
+        "Key": "ClassC.Common.41",
+        "Value": "57151230c29058d695345efa",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7273"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.24",
+        "Value": "57151233c29058d695345efb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7274"
+        }
+    },
+    {
+        "Key": "ClassC.Common.42",
+        "Value": "5715125fc29058d695345f01",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7275"
+        }
+    },
+    {
+        "Key": "ClassC.Common.43",
+        "Value": "57151260c29058d695345f02",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7276"
+        }
+    },
+    {
+        "Key": "ClassC.Common.44",
+        "Value": "57151261c29058d695345f03",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7277"
+        }
+    },
+    {
+        "Key": "ClassC.Common.45",
+        "Value": "57151262c29058d695345f04",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7278"
+        }
+    },
+    {
+        "Key": "ClassC.Common.46",
+        "Value": "57151263c29058d695345f05",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7279"
+        }
+    },
+    {
+        "Key": "ClassC.Common.47",
+        "Value": "57151264c29058d695345f06",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b727a"
+        }
+    },
+    {
+        "Key": "ClassC.Common.48",
+        "Value": "57151265c29058d695345f07",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b727b"
+        }
+    },
+    {
+        "Key": "ClassC.Common.49",
+        "Value": "57151266c29058d695345f08",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b727c"
+        }
+    },
+    {
+        "Key": "ClassC.Common.50",
+        "Value": "57151267c29058d695345f09",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b727d"
+        }
+    },
+    {
+        "Key": "ClassC.Common.51",
+        "Value": "57151268c29058d695345f0a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b727e"
+        }
+    },
+    {
+        "Key": "ClassC.Common.52",
+        "Value": "57151268c29058d695345f0b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b727f"
+        }
+    },
+    {
+        "Key": "ClassC.Common.53",
+        "Value": "57151269c29058d695345f0c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7280"
+        }
+    },
+    {
+        "Key": "ClassC.Common.54",
+        "Value": "5715126ac29058d695345f0d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7281"
+        }
+    },
+    {
+        "Key": "ClassC.Common.55",
+        "Value": "5715126cc29058d695345f0e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7282"
+        }
+    },
+    {
+        "Key": "ClassC.Common.56",
+        "Value": "5715126dc29058d695345f0f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7283"
+        }
+    },
+    {
+        "Key": "ClassC.Common.57",
+        "Value": "5715126fc29058d695345f10",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7284"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.25",
+        "Value": "57151270c29058d695345f11",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7285"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.26",
+        "Value": "57151271c29058d695345f12",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7286"
+        }
+    },
+    {
+        "Key": "ClassC.Common.58",
+        "Value": "57151272c29058d695345f13",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7287"
+        }
+    },
+    {
+        "Key": "ClassC.Common.59",
+        "Value": "57151273c29058d695345f14",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7288"
+        }
+    },
+    {
+        "Key": "ClassC.Common.60",
+        "Value": "57151273c29058d695345f15",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7289"
+        }
+    },
+    {
+        "Key": "ClassC.Common.61",
+        "Value": "57151274c29058d695345f16",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b728a"
+        }
+    },
+    {
+        "Key": "ClassC.Common.62",
+        "Value": "57151275c29058d695345f17",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b728b"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.27",
+        "Value": "57151276c29058d695345f18",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b728c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.28",
+        "Value": "57151278c29058d695345f19",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b728d"
+        }
+    },
+    {
+        "Key": "ClassC.Common.63",
+        "Value": "5715127ac29058d695345f1a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b728e"
+        }
+    },
+    {
+        "Key": "ClassC.Common.64",
+        "Value": "5715127cc29058d695345f1b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b728f"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.29",
+        "Value": "5715127cc29058d695345f1c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7290"
+        }
+    },
+    {
+        "Key": "ClassC.Common.65",
+        "Value": "5715127ec29058d695345f1d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7291"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.30",
+        "Value": "5718f496c29058d6954a3ead",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7292"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.31",
+        "Value": "5718f497c29058d6954a3eae",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7293"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.32",
+        "Value": "5718f499c29058d6954a3eb0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7294"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.33",
+        "Value": "5718f49ac29058d6954a3eb1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7295"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.34",
+        "Value": "5718f49cc29058d6954a3eb2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7296"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.35",
+        "Value": "5718f49cc29058d6954a3eb3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7297"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.36",
+        "Value": "5718f49ec29058d6954a3eb4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7298"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.37",
+        "Value": "5718f49fc29058d6954a3eb5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7299"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.38",
+        "Value": "5718f4a1c29058d6954a3eb7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b729a"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.39",
+        "Value": "5718f4a2c29058d6954a3eb8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b729b"
+        }
+    },
+    {
+        "Key": "ClassC.Common.66",
+        "Value": "5718f4a2c29058d6954a3eb9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b729c"
+        }
+    },
+    {
+        "Key": "ClassC.Common.67",
+        "Value": "5718f4a3c29058d6954a3eba",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b729d"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.40",
+        "Value": "5718f4c5c29058d6954a3ebf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b729e"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.41",
+        "Value": "5718f4c9c29058d6954a3ec3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b729f"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.42",
+        "Value": "5718f4cac29058d6954a3ec4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a0"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.43",
+        "Value": "5718f4cec29058d6954a3ec8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a1"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.44",
+        "Value": "5718f4cec29058d6954a3ec9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a2"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.45",
+        "Value": "5718f4cfc29058d6954a3eca",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a3"
+        }
+    },
+    {
+        "Key": "ClassC.Common.68",
+        "Value": "57237cee80e2e01df795469a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a4"
+        }
+    },
+    {
+        "Key": "ClassC.Common.69",
+        "Value": "57237cf280e2e01df795469d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a5"
+        }
+    },
+    {
+        "Key": "ClassC.Common.70",
+        "Value": "57237cf380e2e01df795469e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a6"
+        }
+    },
+    {
+        "Key": "ClassC.Common.71",
+        "Value": "57237cf580e2e01df79546a0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a7"
+        }
+    },
+    {
+        "Key": "ClassC.Common.72",
+        "Value": "57237cf680e2e01df79546a2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a8"
+        }
+    },
+    {
+        "Key": "ClassC.Common.73",
+        "Value": "57237cf780e2e01df79546a3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72a9"
+        }
+    },
+    {
+        "Key": "ClassC.Common.74",
+        "Value": "57237cf880e2e01df79546a4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72aa"
+        }
+    },
+    {
+        "Key": "ClassC.Common.75",
+        "Value": "57237cf880e2e01df79546a5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ab"
+        }
+    },
+    {
+        "Key": "ClassC.Common.76",
+        "Value": "57237cfa80e2e01df79546a6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ac"
+        }
+    },
+    {
+        "Key": "ClassC.Common.77",
+        "Value": "57237cfd80e2e01df79546a9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ad"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.46",
+        "Value": "57237cfe80e2e01df79546ab",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ae"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.47",
+        "Value": "57237cff80e2e01df79546ac",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72af"
+        }
+    },
+    {
+        "Key": "ClassC.Common.78",
+        "Value": "57237cff80e2e01df79546ad",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b0"
+        }
+    },
+    {
+        "Key": "ClassC.Common.79",
+        "Value": "57237d0080e2e01df79546ae",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b1"
+        }
+    },
+    {
+        "Key": "ClassC.Common.80",
+        "Value": "57237d0180e2e01df79546b0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b2"
+        }
+    },
+    {
+        "Key": "ClassC.Common.81",
+        "Value": "57237d0c80e2e01df79546b2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b3"
+        }
+    },
+    {
+        "Key": "ClassC.Common.82",
+        "Value": "57237d0c80e2e01df79546b3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b4"
+        }
+    },
+    {
+        "Key": "ClassC.Common.83",
+        "Value": "57237d0d80e2e01df79546b4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b5"
+        }
+    },
+    {
+        "Key": "ClassC.Common.84",
+        "Value": "57237d0e80e2e01df79546b5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b6"
+        }
+    },
+    {
+        "Key": "ClassC.Common.85",
+        "Value": "57237d0f80e2e01df79546b6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b7"
+        }
+    },
+    {
+        "Key": "ClassC.Common.86",
+        "Value": "57237d1280e2e01df79546b7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b8"
+        }
+    },
+    {
+        "Key": "ClassC.Common.87",
+        "Value": "57237d1380e2e01df79546b8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72b9"
+        }
+    },
+    {
+        "Key": "ClassC.Common.88",
+        "Value": "57237d1480e2e01df79546b9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ba"
+        }
+    },
+    {
+        "Key": "ClassC.Common.89",
+        "Value": "57237d1580e2e01df79546ba",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72bb"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.48",
+        "Value": "57237d2480e2e01df79546c3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72bc"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.49",
+        "Value": "57237d2480e2e01df79546c4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72bd"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.50",
+        "Value": "57237d2580e2e01df79546c5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72be"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.4",
+        "Value": "57237d2680e2e01df79546c6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72bf"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.51",
+        "Value": "57237d2680e2e01df79546c7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c0"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.52",
+        "Value": "57237d2780e2e01df79546c8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c1"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.53",
+        "Value": "57237d2880e2e01df79546c9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c2"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.54",
+        "Value": "57237d2a80e2e01df79546cb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c3"
+        }
+    },
+    {
+        "Key": "ClassB.Common.14",
+        "Value": "574821d05b917005f45ce6a9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.15",
+        "Value": "574821d15b917005f45ce6aa",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.16",
+        "Value": "57482307d0c95d0607bab3d3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.17",
+        "Value": "57482308d0c95d0607bab3d4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c7"
+        }
+    },
+    {
+        "Key": "ClassB.Common.18",
+        "Value": "574829b9d0c95d0607bab3e2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c8"
+        }
+    },
+    {
+        "Key": "ClassB.Common.19",
+        "Value": "57482af45b917005f45ce6b0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72c9"
+        }
+    },
+    {
+        "Key": "ClassB.Common.20",
+        "Value": "57482af65b917005f45ce6b1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ca"
+        }
+    },
+    {
+        "Key": "ClassB.Common.21",
+        "Value": "57482af85b917005f45ce6b3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72cb"
+        }
+    },
+    {
+        "Key": "ClassB.Common.22",
+        "Value": "57482af95b917005f45ce6b5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72cc"
+        }
+    },
+    {
+        "Key": "ClassB.Common.23",
+        "Value": "57482afa5b917005f45ce6b6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72cd"
+        }
+    },
+    {
+        "Key": "ClassB.Common.24",
+        "Value": "57482afb5b917005f45ce6b7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ce"
+        }
+    },
+    {
+        "Key": "ClassB.Common.25",
+        "Value": "57482afc5b917005f45ce6b8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72cf"
+        }
+    },
+    {
+        "Key": "ClassB.Common.26",
+        "Value": "57482afd5b917005f45ce6b9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d0"
+        }
+    },
+    {
+        "Key": "ClassB.Common.27",
+        "Value": "57482afe5b917005f45ce6ba",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d1"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.14",
+        "Value": "57482afe5b917005f45ce6bb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d2"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.15",
+        "Value": "57482b015b917005f45ce6bf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d3"
+        }
+    },
+    {
+        "Key": "ClassB.Common.28",
+        "Value": "57482b025b917005f45ce6c0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.29",
+        "Value": "57482b035b917005f45ce6c1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.30",
+        "Value": "57482b045b917005f45ce6c2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.31",
+        "Value": "57482b045b917005f45ce6c3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d7"
+        }
+    },
+    {
+        "Key": "ClassB.Common.32",
+        "Value": "57482b055b917005f45ce6c4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d8"
+        }
+    },
+    {
+        "Key": "ClassB.Common.33",
+        "Value": "57482b065b917005f45ce6c5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72d9"
+        }
+    },
+    {
+        "Key": "ClassB.Common.34",
+        "Value": "57482b095b917005f45ce6c9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72da"
+        }
+    },
+    {
+        "Key": "ClassB.Common.35",
+        "Value": "57482b0a5b917005f45ce6ca",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72db"
+        }
+    },
+    {
+        "Key": "ClassB.Common.36",
+        "Value": "57482b0b5b917005f45ce6cb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72dc"
+        }
+    },
+    {
+        "Key": "ClassB.Common.37",
+        "Value": "57482b0c5b917005f45ce6cc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72dd"
+        }
+    },
+    {
+        "Key": "ClassB.Common.38",
+        "Value": "57482b0d5b917005f45ce6cd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72de"
+        }
+    },
+    {
+        "Key": "ClassB.Common.39",
+        "Value": "57482b0d5b917005f45ce6ce",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72df"
+        }
+    },
+    {
+        "Key": "ClassB.Common.40",
+        "Value": "57482b0e5b917005f45ce6cf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e0"
+        }
+    },
+    {
+        "Key": "ClassB.Common.41",
+        "Value": "57482b0f5b917005f45ce6d0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e1"
+        }
+    },
+    {
+        "Key": "ClassB.Common.42",
+        "Value": "57482b105b917005f45ce6d1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e2"
+        }
+    },
+    {
+        "Key": "ClassB.Common.43",
+        "Value": "57482b115b917005f45ce6d2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e3"
+        }
+    },
+    {
+        "Key": "ClassB.Common.44",
+        "Value": "57482bb2d0c95d0607bab3e4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.45",
+        "Value": "57482bb3d0c95d0607bab3e5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.46",
+        "Value": "57482bb4d0c95d0607bab3e6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.47",
+        "Value": "57482bb5d0c95d0607bab3e7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e7"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.16",
+        "Value": "57482bc6d0c95d0607bab3ee",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e8"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.17",
+        "Value": "57482bc8d0c95d0607bab3f0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72e9"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.18",
+        "Value": "57482bc9d0c95d0607bab3f2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ea"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.19",
+        "Value": "57482bcad0c95d0607bab3f3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72eb"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.20",
+        "Value": "57482bcbd0c95d0607bab3f4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ec"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.21",
+        "Value": "57482bccd0c95d0607bab3f5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72ef"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.22",
+        "Value": "57482bcdd0c95d0607bab3f6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f0"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.23",
+        "Value": "57482bced0c95d0607bab3f7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f1"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.24",
+        "Value": "57482bced0c95d0607bab3f8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f2"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.25",
+        "Value": "57482bd1d0c95d0607bab3fa",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f3"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.3",
+        "Value": "57482bd4d0c95d0607bab3fd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.48",
+        "Value": "575e85c19c342e05fe3ea12e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.49",
+        "Value": "575e85c29c342e05fe3ea13a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72f6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.50",
+        "Value": "575e85c49c342e05fe3ea14b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72fb"
+        }
+    },
+    {
+        "Key": "ClassB.Common.51",
+        "Value": "575e85c59c342e05fe3ea157",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72fc"
+        }
+    },
+    {
+        "Key": "ClassB.Common.52",
+        "Value": "575e85c69c342e05fe3ea166",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b72fd"
+        }
+    },
+    {
+        "Key": "ClassB.Common.53",
+        "Value": "575e85c89c342e05fe3ea17d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7301"
+        }
+    },
+    {
+        "Key": "ClassB.Common.54",
+        "Value": "575e85c89c342e05fe3ea180",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7302"
+        }
+    },
+    {
+        "Key": "ClassB.Common.55",
+        "Value": "575e85c99c342e05fe3ea181",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7303"
+        }
+    },
+    {
+        "Key": "ClassB.Common.56",
+        "Value": "575e85ca9c342e05fe3ea18c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7304"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.26",
+        "Value": "575e85cb9c342e05fe3ea198",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7305"
+        }
+    },
+    {
+        "Key": "ClassB.Common.57",
+        "Value": "575e85cc9c342e05fe3ea1a3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7306"
+        }
+    },
+    {
+        "Key": "ClassB.Common.58",
+        "Value": "575e85cd9c342e05fe3ea1af",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7307"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.27",
+        "Value": "575e85cf9c342e05fe3ea1c7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7308"
+        }
+    },
+    {
+        "Key": "ClassB.Common.59",
+        "Value": "575e85d09c342e05fe3ea1d3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7309"
+        }
+    },
+    {
+        "Key": "ClassB.Common.60",
+        "Value": "575e85d09c342e05fe3ea1de",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b730a"
+        }
+    },
+    {
+        "Key": "ClassB.Common.61",
+        "Value": "575e85d19c342e05fe3ea1ec",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b730b"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.4",
+        "Value": "575e85d39c342e05fe3ea202",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b730c"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.5",
+        "Value": "575e85d49c342e05fe3ea213",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b730d"
+        }
+    },
+    {
+        "Key": "ClassB.Common.62",
+        "Value": "575e85d59c342e05fe3ea21c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b730e"
+        }
+    },
+    {
+        "Key": "ClassB.Common.63",
+        "Value": "575e85d69c342e05fe3ea229",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b730f"
+        }
+    },
+    {
+        "Key": "ClassB.Common.64",
+        "Value": "575e85d89c342e05fe3ea233",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7310"
+        }
+    },
+    {
+        "Key": "ClassB.Common.65",
+        "Value": "575e85d99c342e05fe3ea234",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7311"
+        }
+    },
+    {
+        "Key": "ClassB.Common.66",
+        "Value": "575e85db9c342e05fe3ea235",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7312"
+        }
+    },
+    {
+        "Key": "ClassB.Common.67",
+        "Value": "575e85db9c342e05fe3ea236",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7313"
+        }
+    },
+    {
+        "Key": "ClassB.Common.68",
+        "Value": "575e85dc9c342e05fe3ea23f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7314"
+        }
+    },
+    {
+        "Key": "ClassB.Common.69",
+        "Value": "575e85dd9c342e05fe3ea24b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7315"
+        }
+    },
+    {
+        "Key": "ClassB.Common.70",
+        "Value": "575e85de9c342e05fe3ea252",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7316"
+        }
+    },
+    {
+        "Key": "ClassB.Common.71",
+        "Value": "575e85df9c342e05fe3ea25f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7317"
+        }
+    },
+    {
+        "Key": "ClassB.Common.72",
+        "Value": "575e85e09c342e05fe3ea266",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7318"
+        }
+    },
+    {
+        "Key": "ClassB.Common.73",
+        "Value": "575e85e19c342e05fe3ea267",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7319"
+        }
+    },
+    {
+        "Key": "ClassB.Common.74",
+        "Value": "575e85e29c342e05fe3ea277",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b731a"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.28",
+        "Value": "575e85f39c342e05fe3ea2bf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b731b"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.29",
+        "Value": "575e85f49c342e05fe3ea2cd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b731c"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.30",
+        "Value": "575e85f89c342e05fe3ea2d7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b731d"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.31",
+        "Value": "575e85f99c342e05fe3ea2d8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b731e"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.32",
+        "Value": "575e85fa9c342e05fe3ea2da",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b731f"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.33",
+        "Value": "575e85fb9c342e05fe3ea2db",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7320"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.34",
+        "Value": "575e85fd9c342e05fe3ea2ed",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7321"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.35",
+        "Value": "575e85fe9c342e05fe3ea2ee",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7322"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.36",
+        "Value": "575e86009c342e05fe3ea2f5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7323"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.37",
+        "Value": "575e86019c342e05fe3ea303",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7324"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.38",
+        "Value": "575e86029c342e05fe3ea30d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7325"
+        }
+    },
+    {
+        "Key": "ClassA.Common.11",
+        "Value": "575e86159c342e05fe3ea30e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7326"
+        }
+    },
+    {
+        "Key": "ClassA.Common.12",
+        "Value": "575e86169c342e05fe3ea30f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7327"
+        }
+    },
+    {
+        "Key": "ClassA.Common.13",
+        "Value": "575e86179c342e05fe3ea310",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7328"
+        }
+    },
+    {
+        "Key": "ClassA.Common.14",
+        "Value": "575e86189c342e05fe3ea311",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7329"
+        }
+    },
+    {
+        "Key": "ClassA.Common.15",
+        "Value": "575e86199c342e05fe3ea312",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b732a"
+        }
+    },
+    {
+        "Key": "ClassA.Common.16",
+        "Value": "575e861a9c342e05fe3ea314",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b732b"
+        }
+    },
+    {
+        "Key": "ClassA.Common.17",
+        "Value": "575e861c9c342e05fe3ea321",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b732c"
+        }
+    },
+    {
+        "Key": "ClassA.Common.18",
+        "Value": "575e861d9c342e05fe3ea322",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b732d"
+        }
+    },
+    {
+        "Key": "ClassA.Common.19",
+        "Value": "575e861e9c342e05fe3ea323",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b732e"
+        }
+    },
+    {
+        "Key": "ClassA.Common.20",
+        "Value": "575e861f9c342e05fe3ea324",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b732f"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.5",
+        "Value": "575e86219c342e05fe3ea325",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7330"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.6",
+        "Value": "575e86239c342e05fe3ea327",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7331"
+        }
+    },
+    {
+        "Key": "ClassA.Common.21",
+        "Value": "575e86249c342e05fe3ea328",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7332"
+        }
+    },
+    {
+        "Key": "ClassA.Common.22",
+        "Value": "575e86269c342e05fe3ea32a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7333"
+        }
+    },
+    {
+        "Key": "ClassA.Common.23",
+        "Value": "575e86279c342e05fe3ea335",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7334"
+        }
+    },
+    {
+        "Key": "ClassA.Common.24",
+        "Value": "575e86289c342e05fe3ea336",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7335"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.7",
+        "Value": "575e862a9c342e05fe3ea338",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7336"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.8",
+        "Value": "575e862b9c342e05fe3ea339",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7337"
+        }
+    },
+    {
+        "Key": "ClassA.Common.25",
+        "Value": "575e862c9c342e05fe3ea33a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7338"
+        }
+    },
+    {
+        "Key": "ClassA.Common.26",
+        "Value": "575e862e9c342e05fe3ea33b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7339"
+        }
+    },
+    {
+        "Key": "ClassA.Common.27",
+        "Value": "575e862f9c342e05fe3ea33c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b733a"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.9",
+        "Value": "575e863c9c342e05fe3ea370",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b733b"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.1",
+        "Value": "575e86409c342e05fe3ea399",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b733c"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.2",
+        "Value": "575e86439c342e05fe3ea39c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b733d"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.10",
+        "Value": "575e86449c342e05fe3ea39d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b733e"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.3",
+        "Value": "575e86469c342e05fe3ea39f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b733f"
+        }
+    },
+    {
+        "Key": "ClassS.Common.1",
+        "Value": "576157459c342e05fe50246a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7340"
+        }
+    },
+    {
+        "Key": "ClassS.Common.2",
+        "Value": "576157469c342e05fe50246b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7341"
+        }
+    },
+    {
+        "Key": "ClassS.Common.3",
+        "Value": "576157479c342e05fe50246c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7342"
+        }
+    },
+    {
+        "Key": "ClassS.Common.4",
+        "Value": "576157489c342e05fe50246d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7343"
+        }
+    },
+    {
+        "Key": "ClassS.Common.5",
+        "Value": "576157489c342e05fe50246e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7344"
+        }
+    },
+    {
+        "Key": "ClassS.Common.6",
+        "Value": "5761574b9c342e05fe502470",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7345"
+        }
+    },
+    {
+        "Key": "ClassS.Common.7",
+        "Value": "5761574c9c342e05fe502471",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7346"
+        }
+    },
+    {
+        "Key": "ClassS.Common.8",
+        "Value": "5761574d9c342e05fe502472",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7347"
+        }
+    },
+    {
+        "Key": "ClassS.Common.9",
+        "Value": "5761574e9c342e05fe502473",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7348"
+        }
+    },
+    {
+        "Key": "ClassS.Common.10",
+        "Value": "5761574f9c342e05fe502474",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7349"
+        }
+    },
+    {
+        "Key": "ClassS.Common.11",
+        "Value": "576157539c342e05fe502477",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b734a"
+        }
+    },
+    {
+        "Key": "ClassS.Common.12",
+        "Value": "576157579c342e05fe502478",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b734b"
+        }
+    },
+    {
+        "Key": "ClassS.Common.13",
+        "Value": "5761575d9c342e05fe502479",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b734c"
+        }
+    },
+    {
+        "Key": "ClassS.Common.14",
+        "Value": "5761575f9c342e05fe50247a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b734d"
+        }
+    },
+    {
+        "Key": "ClassS.Common.15",
+        "Value": "576157609c342e05fe50247b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b734e"
+        }
+    },
+    {
+        "Key": "ClassS.Common.16",
+        "Value": "576157619c342e05fe50247c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b734f"
+        }
+    },
+    {
+        "Key": "ClassS.Common.17",
+        "Value": "5761577b9c342e05fe502480",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7350"
+        }
+    },
+    {
+        "Key": "ClassS.Common.18",
+        "Value": "5761577c9c342e05fe502481",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7351"
+        }
+    },
+    {
+        "Key": "ClassS.Common.19",
+        "Value": "576157859c342e05fe502482",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7352"
+        }
+    },
+    {
+        "Key": "ClassS.Common.20",
+        "Value": "576157869c342e05fe502483",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7353"
+        }
+    },
+    {
+        "Key": "ClassS.Common.21",
+        "Value": "576157879c342e05fe502484",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7354"
+        }
+    },
+    {
+        "Key": "ClassS.Common.22",
+        "Value": "576157889c342e05fe502485",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7355"
+        }
+    },
+    {
+        "Key": "ClassS.Common.23",
+        "Value": "5761578a9c342e05fe502486",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7356"
+        }
+    },
+    {
+        "Key": "ClassS.Common.24",
+        "Value": "5761578b9c342e05fe502487",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7357"
+        }
+    },
+    {
+        "Key": "ClassS.Uncommon.1",
+        "Value": "576157a39c342e05fe50248a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7358"
+        }
+    },
+    {
+        "Key": "ClassS.Uncommon.2",
+        "Value": "576157a59c342e05fe50248c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7359"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.1",
+        "Value": "576157a79c342e05fe50248e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b735a"
+        }
+    },
+    {
+        "Key": "ClassS.Uncommon.3",
+        "Value": "576157b39c342e05fe502491",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b735b"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.2",
+        "Value": "576157b59c342e05fe502492",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b735c"
+        }
+    },
+    {
+        "Key": "ClassS.Uncommon.4",
+        "Value": "576157b79c342e05fe502494",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b735d"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.3",
+        "Value": "576157bc9c342e05fe502496",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b735e"
+        }
+    },
+    {
+        "Key": "ClassS.Uncommon.5",
+        "Value": "576157bf9c342e05fe502498",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b735f"
+        }
+    },
+    {
+        "Key": "ClassA.Common.28",
+        "Value": "576cfe519c342e05fe9993d7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7360"
+        }
+    },
+    {
+        "Key": "ClassA.Common.29",
+        "Value": "576cfe529c342e05fe9993d8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7361"
+        }
+    },
+    {
+        "Key": "ClassA.Common.30",
+        "Value": "576cfe539c342e05fe9993d9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7362"
+        }
+    },
+    {
+        "Key": "ClassA.Common.31",
+        "Value": "576cfe549c342e05fe9993da",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7363"
+        }
+    },
+    {
+        "Key": "ClassA.Common.32",
+        "Value": "576cfe559c342e05fe9993db",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7364"
+        }
+    },
+    {
+        "Key": "ClassA.Common.33",
+        "Value": "576cfe569c342e05fe9993dc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7365"
+        }
+    },
+    {
+        "Key": "ClassA.Common.34",
+        "Value": "576cfe579c342e05fe9993dd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7366"
+        }
+    },
+    {
+        "Key": "ClassA.Common.35",
+        "Value": "576cfe579c342e05fe9993de",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7367"
+        }
+    },
+    {
+        "Key": "ClassA.Common.36",
+        "Value": "576cfe589c342e05fe9993df",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7368"
+        }
+    },
+    {
+        "Key": "ClassA.Common.37",
+        "Value": "576cfe599c342e05fe9993e0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7369"
+        }
+    },
+    {
+        "Key": "ClassA.Common.38",
+        "Value": "576cfe5a9c342e05fe9993e1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b736a"
+        }
+    },
+    {
+        "Key": "ClassA.Common.39",
+        "Value": "576cfe5b9c342e05fe9993e2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b736b"
+        }
+    },
+    {
+        "Key": "ClassA.Common.40",
+        "Value": "576cfe5e9c342e05fe9993e5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b736c"
+        }
+    },
+    {
+        "Key": "ClassA.Common.41",
+        "Value": "576cfe5f9c342e05fe9993e6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b736d"
+        }
+    },
+    {
+        "Key": "ClassA.Common.42",
+        "Value": "576cfe629c342e05fe9993e9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b736e"
+        }
+    },
+    {
+        "Key": "ClassA.Common.43",
+        "Value": "576cfe639c342e05fe9993ea",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b736f"
+        }
+    },
+    {
+        "Key": "ClassA.Common.44",
+        "Value": "576cfe699c342e05fe9993f0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7370"
+        }
+    },
+    {
+        "Key": "ClassA.Common.45",
+        "Value": "576cfe6a9c342e05fe9993f1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7371"
+        }
+    },
+    {
+        "Key": "ClassA.Common.46",
+        "Value": "576cfe6b9c342e05fe9993f2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7372"
+        }
+    },
+    {
+        "Key": "ClassA.Common.47",
+        "Value": "576cfe6c9c342e05fe9993f3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7373"
+        }
+    },
+    {
+        "Key": "ClassA.Common.48",
+        "Value": "576cfe6d9c342e05fe9993f4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7374"
+        }
+    },
+    {
+        "Key": "ClassA.Common.49",
+        "Value": "576cfe6f9c342e05fe9993f6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7375"
+        }
+    },
+    {
+        "Key": "ClassA.Common.50",
+        "Value": "576cfe709c342e05fe9993f7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7376"
+        }
+    },
+    {
+        "Key": "ClassA.Common.51",
+        "Value": "576cfe719c342e05fe9993f8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7377"
+        }
+    },
+    {
+        "Key": "ClassA.Common.52",
+        "Value": "576cfe729c342e05fe9993f9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7378"
+        }
+    },
+    {
+        "Key": "ClassB.Common.75",
+        "Value": "57d815e1d0281c0560b7b6cd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7379"
+        }
+    },
+    {
+        "Key": "ClassB.Common.76",
+        "Value": "57d815e2d0281c0560b7b6ce",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b737a"
+        }
+    },
+    {
+        "Key": "ClassB.Common.77",
+        "Value": "57d815e2d0281c0560b7b6cf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b737b"
+        }
+    },
+    {
+        "Key": "ClassB.Common.78",
+        "Value": "57d815e3d0281c0560b7b6d0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b737c"
+        }
+    },
+    {
+        "Key": "ClassA.Common.53",
+        "Value": "576cfe989c342e05fe99940c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b737d"
+        }
+    },
+    {
+        "Key": "ClassA.Common.54",
+        "Value": "576cfe999c342e05fe99940d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b737e"
+        }
+    },
+    {
+        "Key": "ClassA.Common.55",
+        "Value": "576cfe9a9c342e05fe99940e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b737f"
+        }
+    },
+    {
+        "Key": "ClassA.Common.56",
+        "Value": "576cfe9b9c342e05fe99940f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7380"
+        }
+    },
+    {
+        "Key": "ClassA.Common.57",
+        "Value": "576cfe9c9c342e05fe999410",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7381"
+        }
+    },
+    {
+        "Key": "ClassA.Common.58",
+        "Value": "576cfe9d9c342e05fe999411",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7382"
+        }
+    },
+    {
+        "Key": "ClassA.Common.59",
+        "Value": "576cfe9e9c342e05fe999412",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7383"
+        }
+    },
+    {
+        "Key": "ClassA.Common.60",
+        "Value": "576cfe9f9c342e05fe999413",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7384"
+        }
+    },
+    {
+        "Key": "ClassA.Common.61",
+        "Value": "576cfea19c342e05fe999414",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7385"
+        }
+    },
+    {
+        "Key": "ClassA.Common.62",
+        "Value": "576cfea29c342e05fe999415",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7386"
+        }
+    },
+    {
+        "Key": "ClassA.Common.63",
+        "Value": "576cfea49c342e05fe999416",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7387"
+        }
+    },
+    {
+        "Key": "ClassA.Common.64",
+        "Value": "576cfea59c342e05fe999417",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7388"
+        }
+    },
+    {
+        "Key": "ClassA.Common.65",
+        "Value": "576cfea69c342e05fe999418",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7389"
+        }
+    },
+    {
+        "Key": "ClassA.Common.66",
+        "Value": "576cfead9c342e05fe99941e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b738a"
+        }
+    },
+    {
+        "Key": "ClassA.Common.67",
+        "Value": "576cfeaf9c342e05fe999420",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b738b"
+        }
+    },
+    {
+        "Key": "ClassA.Common.68",
+        "Value": "576cfeb09c342e05fe999421",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b738c"
+        }
+    },
+    {
+        "Key": "ClassA.Common.69",
+        "Value": "576cfeb39c342e05fe999422",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b738d"
+        }
+    },
+    {
+        "Key": "ClassA.Common.70",
+        "Value": "576cfeb49c342e05fe999423",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b738e"
+        }
+    },
+    {
+        "Key": "ClassA.Common.71",
+        "Value": "576cfeb79c342e05fe999424",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b738f"
+        }
+    },
+    {
+        "Key": "ClassA.Common.72",
+        "Value": "576cff2966322206044adc1f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7390"
+        }
+    },
+    {
+        "Key": "ClassA.Common.73",
+        "Value": "576cff2a66322206044adc20",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7391"
+        }
+    },
+    {
+        "Key": "ClassA.Common.74",
+        "Value": "576cff2d66322206044adc24",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7392"
+        }
+    },
+    {
+        "Key": "ClassA.Common.75",
+        "Value": "576cff2e66322206044adc25",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7393"
+        }
+    },
+    {
+        "Key": "ClassA.Common.76",
+        "Value": "576cff2e66322206044adc26",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7394"
+        }
+    },
+    {
+        "Key": "ClassA.Common.77",
+        "Value": "576cff2f66322206044adc27",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7395"
+        }
+    },
+    {
+        "Key": "ClassA.Common.78",
+        "Value": "576cff3066322206044adc28",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7396"
+        }
+    },
+    {
+        "Key": "ClassA.Common.79",
+        "Value": "576cff3166322206044adc29",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7397"
+        }
+    },
+    {
+        "Key": "ClassA.Common.80",
+        "Value": "576cff3266322206044adc2a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7398"
+        }
+    },
+    {
+        "Key": "ClassA.Common.81",
+        "Value": "576cff3366322206044adc2b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7399"
+        }
+    },
+    {
+        "Key": "ClassA.Common.82",
+        "Value": "576cff3466322206044adc2c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b739a"
+        }
+    },
+    {
+        "Key": "ClassA.Common.83",
+        "Value": "576cff3466322206044adc2d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b739b"
+        }
+    },
+    {
+        "Key": "ClassA.Common.84",
+        "Value": "576cff3666322206044adc2e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b739c"
+        }
+    },
+    {
+        "Key": "ClassA.Common.85",
+        "Value": "576cff3766322206044adc2f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b739d"
+        }
+    },
+    {
+        "Key": "ClassA.Common.86",
+        "Value": "576cff3766322206044adc30",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b739e"
+        }
+    },
+    {
+        "Key": "ClassA.Common.87",
+        "Value": "576cff3866322206044adc31",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b739f"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.11",
+        "Value": "576cff4a66322206044adc3d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a0"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.12",
+        "Value": "576cff4f66322206044adc44",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a1"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.13",
+        "Value": "576cff5366322206044adc45",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a2"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.14",
+        "Value": "576cff5466322206044adc46",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a3"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.55",
+        "Value": "576cff9e66322206044adc4d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a4"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.4",
+        "Value": "576cff3f66322206044adc33",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a5"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.5",
+        "Value": "576cff4066322206044adc34",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a6"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.6",
+        "Value": "576cff4166322206044adc35",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a7"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.7",
+        "Value": "576cff4266322206044adc36",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a8"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.8",
+        "Value": "576cff4366322206044adc37",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73a9"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.9",
+        "Value": "576cff4466322206044adc38",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73aa"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.15",
+        "Value": "576cff4566322206044adc39",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ab"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.16",
+        "Value": "576cff4666322206044adc3a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ac"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.17",
+        "Value": "576cff4766322206044adc3b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ad"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.18",
+        "Value": "576cff4866322206044adc3c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ae"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.56",
+        "Value": "5772481366322238acec60e0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73af"
+        }
+    },
+    {
+        "Key": "ClassC.Common.90",
+        "Value": "5772481466322238acec60e1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b0"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.57",
+        "Value": "5772481566322238acec60e2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b1"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.58",
+        "Value": "5772481666322238acec60e3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b2"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.59",
+        "Value": "5772481666322238acec60e4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b3"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.60",
+        "Value": "5772481766322238acec60e5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b4"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.61",
+        "Value": "5772481966322238acec60e6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b5"
+        }
+    },
+    {
+        "Key": "ClassC.Common.91",
+        "Value": "5772486a9c342e18f16d23da",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b6"
+        }
+    },
+    {
+        "Key": "ClassC.Common.92",
+        "Value": "5772486b9c342e18f16d23db",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b7"
+        }
+    },
+    {
+        "Key": "ClassC.Common.93",
+        "Value": "5772486b9c342e18f16d23dc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b8"
+        }
+    },
+    {
+        "Key": "ClassC.Common.94",
+        "Value": "5772486c9c342e18f16d23dd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73b9"
+        }
+    },
+    {
+        "Key": "ClassC.Common.95",
+        "Value": "5772486d9c342e18f16d23de",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ba"
+        }
+    },
+    {
+        "Key": "ClassC.Common.96",
+        "Value": "5772486f9c342e18f16d23e0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73bb"
+        }
+    },
+    {
+        "Key": "ClassC.Common.97",
+        "Value": "5772486f9c342e18f16d23e1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73bc"
+        }
+    },
+    {
+        "Key": "ClassC.Common.98",
+        "Value": "577248719c342e18f16d23e3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73bd"
+        }
+    },
+    {
+        "Key": "ClassC.Common.99",
+        "Value": "577248749c342e18f16d23e7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73be"
+        }
+    },
+    {
+        "Key": "ClassC.Common.100",
+        "Value": "577248759c342e18f16d23e9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73bf"
+        }
+    },
+    {
+        "Key": "ClassC.Common.101",
+        "Value": "577248769c342e18f16d23ea",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c0"
+        }
+    },
+    {
+        "Key": "ClassC.Common.102",
+        "Value": "577248779c342e18f16d23eb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c1"
+        }
+    },
+    {
+        "Key": "ClassC.Common.103",
+        "Value": "577248789c342e18f16d23ec",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c2"
+        }
+    },
+    {
+        "Key": "ClassC.Common.104",
+        "Value": "577248799c342e18f16d23ed",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c3"
+        }
+    },
+    {
+        "Key": "ClassB.Common.79",
+        "Value": "5775252f66322238ac04e16a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.80",
+        "Value": "5775253066322238ac04e16b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.81",
+        "Value": "5775253166322238ac04e16c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.82",
+        "Value": "5775253266322238ac04e16d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c7"
+        }
+    },
+    {
+        "Key": "ClassB.Common.83",
+        "Value": "5775253366322238ac04e16e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c8"
+        }
+    },
+    {
+        "Key": "ClassB.Common.84",
+        "Value": "5775253466322238ac04e16f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73c9"
+        }
+    },
+    {
+        "Key": "ClassB.Common.85",
+        "Value": "5775253466322238ac04e170",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ca"
+        }
+    },
+    {
+        "Key": "ClassB.Common.86",
+        "Value": "5775253666322238ac04e172",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73cb"
+        }
+    },
+    {
+        "Key": "ClassB.Common.87",
+        "Value": "5775253766322238ac04e173",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73cc"
+        }
+    },
+    {
+        "Key": "ClassB.Common.88",
+        "Value": "5775253766322238ac04e174",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73cd"
+        }
+    },
+    {
+        "Key": "ClassB.Common.89",
+        "Value": "5775253866322238ac04e175",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ce"
+        }
+    },
+    {
+        "Key": "ClassB.Common.90",
+        "Value": "5775253966322238ac04e176",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73cf"
+        }
+    },
+    {
+        "Key": "ClassB.Common.91",
+        "Value": "5775253b66322238ac04e179",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d0"
+        }
+    },
+    {
+        "Key": "ClassB.Common.92",
+        "Value": "5775253c66322238ac04e17a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d1"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.39",
+        "Value": "5775253d66322238ac04e17c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d2"
+        }
+    },
+    {
+        "Key": "ClassB.Common.93",
+        "Value": "5775253e66322238ac04e17d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d3"
+        }
+    },
+    {
+        "Key": "ClassB.Common.94",
+        "Value": "5775254266322238ac04e182",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.95",
+        "Value": "5775254366322238ac04e183",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.96",
+        "Value": "5775254366322238ac04e184",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.97",
+        "Value": "5775254466322238ac04e185",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d7"
+        }
+    },
+    {
+        "Key": "ClassB.Common.98",
+        "Value": "5775254566322238ac04e186",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d8"
+        }
+    },
+    {
+        "Key": "ClassB.Common.99",
+        "Value": "5775254666322238ac04e187",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73d9"
+        }
+    },
+    {
+        "Key": "ClassB.Common.100",
+        "Value": "5775254666322238ac04e188",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73da"
+        }
+    },
+    {
+        "Key": "ClassB.Common.101",
+        "Value": "5775254766322238ac04e189",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73db"
+        }
+    },
+    {
+        "Key": "ClassB.Common.102",
+        "Value": "5775254866322238ac04e18a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73dc"
+        }
+    },
+    {
+        "Key": "ClassB.Common.103",
+        "Value": "5775255166322238ac04e18b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73dd"
+        }
+    },
+    {
+        "Key": "ClassB.Common.104",
+        "Value": "5775255266322238ac04e18c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73de"
+        }
+    },
+    {
+        "Key": "ClassB.Common.105",
+        "Value": "5775255366322238ac04e18d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73df"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.40",
+        "Value": "5775255c66322238ac04e192",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e0"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.6",
+        "Value": "5775255d66322238ac04e193",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e1"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.41",
+        "Value": "5775255e66322238ac04e194",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e2"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.42",
+        "Value": "5775255f66322238ac04e195",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e3"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.43",
+        "Value": "5775256066322238ac04e197",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e4"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.7",
+        "Value": "5775256266322238ac04e19a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e5"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.44",
+        "Value": "5775256466322238ac04e19b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.106",
+        "Value": "57d815e5d0281c0560b7b6d4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e7"
+        }
+    },
+    {
+        "Key": "ClassB.Common.107",
+        "Value": "57d815e6d0281c0560b7b6d5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e8"
+        }
+    },
+    {
+        "Key": "ClassB.Common.108",
+        "Value": "57d815e6d0281c0560b7b6d6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73e9"
+        }
+    },
+    {
+        "Key": "ClassB.Common.109",
+        "Value": "57d815e7d0281c0560b7b6d7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ea"
+        }
+    },
+    {
+        "Key": "ClassB.Common.110",
+        "Value": "57d815ead0281c0560b7b6dc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73eb"
+        }
+    },
+    {
+        "Key": "ClassB.Common.111",
+        "Value": "57d815ead0281c0560b7b6dd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ec"
+        }
+    },
+    {
+        "Key": "ClassB.Common.112",
+        "Value": "57d815ebd0281c0560b7b6de",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ed"
+        }
+    },
+    {
+        "Key": "ClassB.Common.113",
+        "Value": "57d815ecd0281c0560b7b6df",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ee"
+        }
+    },
+    {
+        "Key": "ClassB.Common.114",
+        "Value": "57d815ecd0281c0560b7b6e0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ef"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.45",
+        "Value": "57d815edd0281c0560b7b6e2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f0"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.46",
+        "Value": "57d815eed0281c0560b7b6e3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f1"
+        }
+    },
+    {
+        "Key": "ClassB.Common.115",
+        "Value": "57d815efd0281c0560b7b6e4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f2"
+        }
+    },
+    {
+        "Key": "ClassB.Common.116",
+        "Value": "57d815efd0281c0560b7b6e5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f3"
+        }
+    },
+    {
+        "Key": "ClassB.Common.117",
+        "Value": "57d815f0d0281c0560b7b6e6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f4"
+        }
+    },
+    {
+        "Key": "ClassB.Common.118",
+        "Value": "57d815f0d0281c0560b7b6e7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f5"
+        }
+    },
+    {
+        "Key": "ClassB.Common.119",
+        "Value": "57d815f1d0281c0560b7b6e8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f6"
+        }
+    },
+    {
+        "Key": "ClassB.Common.120",
+        "Value": "57d815f1d0281c0560b7b6e9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f7"
+        }
+    },
+    {
+        "Key": "ClassB.Common.121",
+        "Value": "57d815f2d0281c0560b7b6ea",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f8"
+        }
+    },
+    {
+        "Key": "ClassB.Common.122",
+        "Value": "57d815f3d0281c0560b7b6eb",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73f9"
+        }
+    },
+    {
+        "Key": "ClassB.Common.123",
+        "Value": "57d815f3d0281c0560b7b6ec",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73fa"
+        }
+    },
+    {
+        "Key": "ClassB.Common.124",
+        "Value": "57d815f4d0281c0560b7b6ed",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73fb"
+        }
+    },
+    {
+        "Key": "ClassB.Common.125",
+        "Value": "57d815f4d0281c0560b7b6ee",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73fc"
+        }
+    },
+    {
+        "Key": "ClassB.Common.126",
+        "Value": "57d815f5d0281c0560b7b6ef",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73fd"
+        }
+    },
+    {
+        "Key": "ClassB.Common.127",
+        "Value": "57d815f6d0281c0560b7b6f0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73fe"
+        }
+    },
+    {
+        "Key": "ClassB.Common.128",
+        "Value": "57d815f6d0281c0560b7b6f1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b73ff"
+        }
+    },
+    {
+        "Key": "ClassB.Common.129",
+        "Value": "57d815f7d0281c0560b7b6f2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7400"
+        }
+    },
+    {
+        "Key": "ClassB.Common.130",
+        "Value": "57d815f7d0281c0560b7b6f3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7401"
+        }
+    },
+    {
+        "Key": "ClassB.Common.131",
+        "Value": "57d815f8d0281c0560b7b6f4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7402"
+        }
+    },
+    {
+        "Key": "ClassB.Common.132",
+        "Value": "57d815f9d0281c0560b7b6f5",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7403"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.47",
+        "Value": "57d81603d0281c0560b7b6fc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7404"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.48",
+        "Value": "57d81604d0281c0560b7b6fd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7405"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.49",
+        "Value": "57d81606d0281c0560b7b701",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7406"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.50",
+        "Value": "57d81607d0281c0560b7b702",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7407"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.51",
+        "Value": "57d81607d0281c0560b7b703",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7408"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.52",
+        "Value": "57d81608d0281c0560b7b705",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7409"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.53",
+        "Value": "57d81609d0281c0560b7b706",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b740a"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.54",
+        "Value": "57d81609d0281c0560b7b707",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b740b"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.55",
+        "Value": "57d8160ad0281c0560b7b709",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b740c"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.56",
+        "Value": "57d8160bd0281c0560b7b70a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b740d"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.57",
+        "Value": "57d8160cd0281c0560b7b70b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b740e"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.58",
+        "Value": "57d8160dd0281c0560b7b70c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b740f"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.19",
+        "Value": "582afaae9e5acca546cf42c3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7410"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.10",
+        "Value": "582afd9c9e5acca546cf469c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7411"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.20",
+        "Value": "58356d27922519d949ab6bc6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7412"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.21",
+        "Value": "58356d28922519d949ab6bc7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7413"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.22",
+        "Value": "58356d29922519d949ab6bc8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7414"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.23",
+        "Value": "58356d2e922519d949ab6bcd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7415"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.24",
+        "Value": "58356d2f922519d949ab6bce",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7416"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.11",
+        "Value": "58356d30922519d949ab6bcf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7417"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.12",
+        "Value": "58356d31922519d949ab6bd7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7418"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.13",
+        "Value": "58356d32922519d949ab6bec",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7419"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.14",
+        "Value": "58356d33922519d949ab6bed",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b741a"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.15",
+        "Value": "58356d34922519d949ab6bf7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b741b"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.16",
+        "Value": "58356d36922519d949ab6c1c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b741c"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.4",
+        "Value": "58356d45922519d949ab6ca9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b741d"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.5",
+        "Value": "58356d46922519d949ab6cb8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b741e"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.6",
+        "Value": "58356d47922519d949ab6cc3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b741f"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.7",
+        "Value": "58356d48922519d949ab6cd4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7420"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.8",
+        "Value": "58356d4c922519d949ab6d19",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7421"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.9",
+        "Value": "58356d4d922519d949ab6d23",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7422"
+        }
+    },
+    {
+        "Key": "ClassS.Rare.10",
+        "Value": "58356d4e922519d949ab6d24",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7423"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.62",
+        "Value": "583ed5289225195ad04cfa62",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7424"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.63",
+        "Value": "583ed5479225195ad04d6215",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7425"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.64",
+        "Value": "583ed54f9225195ad04d8a77",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7426"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.65",
+        "Value": "583ed5539225195ad04dabe9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7427"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.66",
+        "Value": "583ed5559225195ad04db15c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7428"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.67",
+        "Value": "583ed5579225195ad04db792",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7429"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.17",
+        "Value": "583ed5739225195ad04e3a28",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b742a"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.18",
+        "Value": "583ed5759225195ad04e637a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b742b"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.19",
+        "Value": "583ed5769225195ad04e66bf",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b742c"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.20",
+        "Value": "583ed5779225195ad04e6a31",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b742d"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.21",
+        "Value": "583ed5779225195ad04e6c6e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b742e"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.22",
+        "Value": "583ed5799225195ad04e6f18",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b742f"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.59",
+        "Value": "583ed5a7654d550a77481edc",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7430"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.60",
+        "Value": "583ed5a8654d550a77481edd",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7431"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.61",
+        "Value": "583ed5b0654d550a77481ee7",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7432"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.62",
+        "Value": "583ed5b2654d550a77481ee9",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7433"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.68",
+        "Value": "583ed669654d550a77482228",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7434"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.5",
+        "Value": "583ed66c654d550a7748222d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7435"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.6",
+        "Value": "583ed66d654d550a77482232",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7436"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.69",
+        "Value": "583ed66e654d550a7748223f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7437"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.70",
+        "Value": "583ed66f654d550a77482247",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7438"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.71",
+        "Value": "583ed671654d550a77482253",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7439"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.72",
+        "Value": "583ed671654d550a77482260",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b743a"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.73",
+        "Value": "583ed672654d550a77482269",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b743b"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.74",
+        "Value": "583ed673654d550a7748226e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b743c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.75",
+        "Value": "583ed674654d550a7748227a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b743d"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.76",
+        "Value": "583ed675654d550a77482282",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b743e"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.63",
+        "Value": "583ed695654d550a774823d4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b743f"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.8",
+        "Value": "583ed696654d550a774823d6",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7440"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.9",
+        "Value": "583ed697654d550a774823e4",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7441"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.10",
+        "Value": "583ed699654d550a774823f8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7442"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.11",
+        "Value": "583ed69d654d550a77482431",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7443"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.12",
+        "Value": "583ed69d654d550a77482432",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7444"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.13",
+        "Value": "583ed69e654d550a77482433",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7445"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.14",
+        "Value": "583ed6a0654d550a77482435",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7446"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.15",
+        "Value": "583ed6a1654d550a77482436",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7447"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.16",
+        "Value": "583ed6a1654d550a77482437",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7448"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.25",
+        "Value": "583ed6c2654d550a77482534",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7449"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.26",
+        "Value": "583ed6c3654d550a7748253b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b744a"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.27",
+        "Value": "583ed6c4654d550a7748253d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b744b"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.28",
+        "Value": "583ed6c5654d550a7748253e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b744c"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.29",
+        "Value": "583ed6c6654d550a77482540",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b744d"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.23",
+        "Value": "583ed6ca654d550a7748256d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b744e"
+        }
+    },
+    {
+        "Key": "ClassA.Uncommon.30",
+        "Value": "583ed6cb654d550a7748257d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b744f"
+        }
+    },
+    {
+        "Key": "ClassA.Rare.24",
+        "Value": "583ed6cc654d550a7748257e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7450"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.77",
+        "Value": "584033249225195ad0e82e9d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7451"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.78",
+        "Value": "584033269225195ad0e82ea0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7452"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.79",
+        "Value": "584033289225195ad0e82ea2",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7453"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.7",
+        "Value": "584033299225195ad0e82ea3",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7454"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.80",
+        "Value": "584033299225195ad0e82ea8",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7455"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.64",
+        "Value": "584033399225195ad0e82f54",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7456"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.65",
+        "Value": "5840333a9225195ad0e82f55",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7457"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.66",
+        "Value": "5840333b9225195ad0e82f56",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7458"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.67",
+        "Value": "5840333c9225195ad0e82f57",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7459"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.68",
+        "Value": "5840333d9225195ad0e82f58",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b745a"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.17",
+        "Value": "5840333f9225195ad0e82f5b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b745b"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.69",
+        "Value": "584033409225195ad0e82f5c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b745c"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.70",
+        "Value": "584033419225195ad0e82f5d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b745d"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.71",
+        "Value": "584033429225195ad0e82f5e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b745e"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.72",
+        "Value": "584033439225195ad0e82f60",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b745f"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.73",
+        "Value": "584033449225195ad0e82f61",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7460"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.74",
+        "Value": "584033459225195ad0e82f62",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7461"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.75",
+        "Value": "584033469225195ad0e82f63",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7462"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.76",
+        "Value": "584033469225195ad0e82f64",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7463"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.18",
+        "Value": "584033479225195ad0e82f65",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7464"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.19",
+        "Value": "584033489225195ad0e82f66",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7465"
+        }
+    },
+    {
+        "Key": "ClassB.Rare.20",
+        "Value": "584033499225195ad0e82f67",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7466"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.77",
+        "Value": "5840334a9225195ad0e82f68",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7467"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.78",
+        "Value": "5840334b9225195ad0e82f69",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7468"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.79",
+        "Value": "5840334c9225195ad0e82f6a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7469"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.80",
+        "Value": "5840334d9225195ad0e82f6b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b746a"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.81",
+        "Value": "5840334e9225195ad0e82f6c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b746b"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.81",
+        "Value": "5840335b9225195ad0e82f6d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b746c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.82",
+        "Value": "5840335c9225195ad0e82f6e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b746d"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.83",
+        "Value": "5840335d9225195ad0e82f70",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b746e"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.84",
+        "Value": "5840335d9225195ad0e82f7b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b746f"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.85",
+        "Value": "5840335e9225195ad0e82f84",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7470"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.86",
+        "Value": "5840335f9225195ad0e82f87",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7471"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.87",
+        "Value": "584033609225195ad0e82f88",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7472"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.88",
+        "Value": "584033609225195ad0e82f89",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7473"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.89",
+        "Value": "584033619225195ad0e82f8a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7474"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.90",
+        "Value": "584033629225195ad0e82f8b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7475"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.91",
+        "Value": "584033749225195ad0e82f97",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7476"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.92",
+        "Value": "584033759225195ad0e82f98",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7477"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.8",
+        "Value": "584033759225195ad0e82f99",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7478"
+        }
+    },
+    {
+        "Key": "ClassC.Rare.9",
+        "Value": "584033769225195ad0e82f9a",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7479"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.93",
+        "Value": "584033779225195ad0e82f9b",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b747a"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.94",
+        "Value": "584033789225195ad0e82f9c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b747b"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.95",
+        "Value": "584033789225195ad0e82f9d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b747c"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.96",
+        "Value": "584033799225195ad0e82f9e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b747d"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.97",
+        "Value": "5840337a9225195ad0e82f9f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b747e"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.98",
+        "Value": "5840337b9225195ad0e82fa0",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b747f"
+        }
+    },
+    {
+        "Key": "ClassC.Uncommon.99",
+        "Value": "5840337c9225195ad0e82fa1",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7480"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.82",
+        "Value": "584033ca9225195ad0e83033",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7481"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.83",
+        "Value": "584033cb9225195ad0e83034",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7482"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.84",
+        "Value": "584033cc9225195ad0e83038",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7483"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.85",
+        "Value": "584033cc9225195ad0e83040",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7484"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.86",
+        "Value": "584033cf9225195ad0e8306c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7485"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.87",
+        "Value": "584033d09225195ad0e83077",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7486"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.88",
+        "Value": "584033d19225195ad0e8307c",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7487"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.89",
+        "Value": "584033d29225195ad0e8307d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7488"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.90",
+        "Value": "584033d29225195ad0e8307e",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7489"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.91",
+        "Value": "584033db9225195ad0e8307f",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b748a"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.92",
+        "Value": "584033dc9225195ad0e83080",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b748b"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.93",
+        "Value": "584033de9225195ad0e83082",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b748c"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.94",
+        "Value": "584033df9225195ad0e83089",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b748d"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.95",
+        "Value": "584033df9225195ad0e83094",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b748e"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.96",
+        "Value": "584033f29225195ad0e84058",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b748f"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.97",
+        "Value": "584033f39225195ad0e84264",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7490"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.98",
+        "Value": "584033f49225195ad0e8426d",
+        "_id": {
+            "$oid": "58ada3c8900bea04cc6b7491"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.99",
+        "Value": "584033f59225195ad0e8427b",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7492"
+        }
+    },
+    {
+        "Key": "ClassB.Uncommon.100",
+        "Value": "584033f69225195ad0e84585",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7493"
+        }
+    },
+    {
+        "Key": "ClassB.RareRange",
+        "Value": "20",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7494"
+        }
+    },
+    {
+        "Key": "ClassB.UncommonRange",
+        "Value": "100",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7495"
+        }
+    },
+    {
+        "Key": "ClassB.CommonRange",
+        "Value": "132",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7496"
+        }
+    },
+    {
+        "Key": "ClassC.CommonRange",
+        "Value": "104",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7497"
+        }
+    },
+    {
+        "Key": "ClassC.UncommonRange",
+        "Value": "99",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7498"
+        }
+    },
+    {
+        "Key": "ClassC.RareRange",
+        "Value": "9",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b7499"
+        }
+    },
+    {
+        "Key": "ClassA.UncommonRange",
+        "Value": "30",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b749a"
+        }
+    },
+    {
+        "Key": "ClassA.CommonRange",
+        "Value": "87",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b749b"
+        }
+    },
+    {
+        "Key": "ClassA.RareRange",
+        "Value": "24",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b749c"
+        }
+    },
+    {
+        "Key": "ClassS.CommonRange",
+        "Value": "24",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b749d"
+        }
+    },
+    {
+        "Key": "ClassS.UncommonRange",
+        "Value": "5",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b749e"
+        }
+    },
+    {
+        "Key": "ClassS.RareRange",
+        "Value": "10",
+        "_id": {
+            "$oid": "58ada3c9900bea04cc6b749f"
+        }
+    }
+]

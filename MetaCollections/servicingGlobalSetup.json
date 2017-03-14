@@ -1,0 +1,21 @@
+[
+    {
+        "ClientData": {
+            "AdSavesDeliveryMinutes": 15,
+            "ExpediteFreeMinutesRemaining": 1,
+            "ServiceTimeToExpediteCost": 6
+        },
+        "ServerData": {
+            "LapDeductionProportion": 0.1,
+            "NumServicesWhichDeductInterval": 10,
+            "ServiceCostMultiplier": [
+                1,
+                2,
+                4
+            ]
+        },
+        "_id": {
+            "$oid": "5755817dd0c95d0607ebcc16"
+        }
+    }
+]

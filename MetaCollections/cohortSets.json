@@ -1,0 +1,14 @@
+[
+    {
+        "AffectNewUsersOnly": false,
+        "Cohorts": [
+            {
+                "CohortId": "A"
+            }
+        ],
+        "SetId": "Test01",
+        "_id": {
+            "$oid": "57a865073383e56c695e9f40"
+        }
+    }
+]

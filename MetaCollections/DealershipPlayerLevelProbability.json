@@ -1,0 +1,50 @@
+[
+    {
+        "ClassAProbability": 1,
+        "ClassBProbability": 2,
+        "ClassCProbability": 8,
+        "ClassSProbability": 1,
+        "EndLevel": 12,
+        "ProbabilityDenominator": 12,
+        "StartLevel": 1,
+        "_id": {
+            "$oid": "56e8016aade40705e76eef14"
+        }
+    },
+    {
+        "ClassAProbability": 2,
+        "ClassBProbability": 6,
+        "ClassCProbability": 3,
+        "ClassSProbability": 1,
+        "EndLevel": 24,
+        "ProbabilityDenominator": 12,
+        "StartLevel": 13,
+        "_id": {
+            "$oid": "56e80193ade40705e76eef15"
+        }
+    },
+    {
+        "ClassAProbability": 4,
+        "ClassBProbability": 3,
+        "ClassCProbability": 3,
+        "ClassSProbability": 2,
+        "EndLevel": 36,
+        "ProbabilityDenominator": 12,
+        "StartLevel": 25,
+        "_id": {
+            "$oid": "56e801a0ade40705e76eef2d"
+        }
+    },
+    {
+        "ClassAProbability": 4,
+        "ClassBProbability": 3,
+        "ClassCProbability": 2,
+        "ClassSProbability": 3,
+        "EndLevel": 50,
+        "ProbabilityDenominator": 12,
+        "StartLevel": 37,
+        "_id": {
+            "$oid": "56e801d32a881f05b510de01"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "AffectNewUsersOnly": true,
+        "CohortCollections": {
+            "XP0": {},
+            "XP1": {
+                "XPAwards": "XPAwards_XPLevel_XP1"
+            }
+        },
+        "Cohorts": {
+            "XP0": {
+                "Baseline": true
+            },
+            "XP1": {
+                "Baseline": false
+            }
+        },
+        "Name": "XPLevel",
+        "OverrideCollections": {
+            "XPAwards": true
+        },
+        "_id": {
+            "$oid": "5894afcf12e6ac61cd47cfc1"
+        }
+    }
+]

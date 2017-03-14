@@ -1,0 +1,15 @@
+/GameSparks/event/TestEvent.js
+.project
+.settings/.jsdtscope
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+
+TAGS
+
+Archive.zip
+
+GameSparks/tests/node_modules/*
+!GameSparks/tests/node_modules/Dealership/
+
+GameSparks/typings/*
+!GameSparks/typings/dealership/

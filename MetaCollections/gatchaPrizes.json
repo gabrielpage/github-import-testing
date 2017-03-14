@@ -1,0 +1,65 @@
+[
+    {
+        "PercentageChance": 0.503937007874016,
+        "PrizeAmount": 100,
+        "PrizeType": "Cash",
+        "Weight": 64,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fdfc"
+        }
+    },
+    {
+        "PercentageChance": 0.251968503937008,
+        "PrizeAmount": 200,
+        "PrizeType": "Cash",
+        "Weight": 32,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fdfd"
+        }
+    },
+    {
+        "PercentageChance": 0.125984251968504,
+        "PrizeAmount": 500,
+        "PrizeType": "Cash",
+        "Weight": 16,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fdfe"
+        }
+    },
+    {
+        "PercentageChance": 0.062992125984252,
+        "PrizeAmount": 1000,
+        "PrizeType": "Cash",
+        "Weight": 8,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fdff"
+        }
+    },
+    {
+        "PercentageChance": 0.031496062992126,
+        "PrizeAmount": 2500,
+        "PrizeType": "Cash",
+        "Weight": 4,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fe00"
+        }
+    },
+    {
+        "PercentageChance": 0.015748031496063,
+        "PrizeAmount": 5000,
+        "PrizeType": "Cash",
+        "Weight": 2,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fe01"
+        }
+    },
+    {
+        "PercentageChance": 0.0078740157480315,
+        "PrizeAmount": 10000,
+        "PrizeType": "Cash",
+        "Weight": 1,
+        "_id": {
+            "$oid": "560119c9e4b019aeab56fe02"
+        }
+    }
+]

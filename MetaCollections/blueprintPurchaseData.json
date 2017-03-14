@@ -1,0 +1,13 @@
+[
+    {
+        "ClientData": {
+            "PercentageOfBlueprintRequiredToPurchase": 0.5
+        },
+        "ServerData": {
+            "PieceMarkup": 1.8
+        },
+        "_id": {
+            "$oid": "58824234654d55d7371115e6"
+        }
+    }
+]

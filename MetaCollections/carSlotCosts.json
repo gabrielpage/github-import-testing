@@ -1,0 +1,32 @@
+[
+    {
+        "ClientData": {
+            "CarSlotCosts": [
+                10,
+                25,
+                45,
+                70,
+                100,
+                125,
+                160,
+                200,
+                240,
+                300,
+                350,
+                400,
+                475,
+                550,
+                625,
+                725,
+                850,
+                900,
+                1000
+            ],
+            "FreeSlots": 5,
+            "MinCarsBeforeShowingPurchasableSlot": 3
+        },
+        "_id": {
+            "$oid": "57642b629c342e05fe67d8e7"
+        }
+    }
+]

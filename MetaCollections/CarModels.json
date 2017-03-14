@@ -1,0 +1,452 @@
+[
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_FORD_FOCUS_RS_2016",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_FOCUS_RS_2016"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Focus_RS_2016",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0198249816894531,
+        "_id": {
+            "$oid": "56f2826dade40705e73fdebd"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_FORD_MUSTANG_MACH1_1971",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_MUSTANG_MACH1_1971"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Mustang_Mach1_1971",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9703379273414612,
+        "_id": {
+            "$oid": "56f2826eade40705e73fdebe"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_FORD_MUSTANG_STOCK_A",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_MUSTANG_STOCK_A"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Mustang_Stock_A",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0,
+        "_id": {
+            "$oid": "56f2826fade40705e73fdebf"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_FORD_MUSTANG_STOCK_A",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_MUSTANG_STOCK_A"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Mustang_Wide_A",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0,
+        "_id": {
+            "$oid": "56f2826fade40705e73fdec0"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "S",
+            "LongName": "TEXT_CAR_LONG_KOENIGSEGG_ONE1",
+            "Manufacturer": "Koenigsegg",
+            "ManufacturerName": "TEXT_MANUFACTURER_KOENIGSEGG",
+            "ShortName": "TEXT_CAR_SHORT_KOENIGSEGG_ONE1"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Koenigsegg_One1",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.3985999822616577,
+        "_id": {
+            "$oid": "56f28270ade40705e73fdec1"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "A",
+            "LongName": "TEXT_CAR_LONG_LOTUS_EXIGE_S_2012",
+            "Manufacturer": "Lotus",
+            "ManufacturerName": "TEXT_MANUFACTURER_LOTUS",
+            "ShortName": "TEXT_CAR_SHORT_LOTUS_EXIGE_S_2012"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Lotus_Exige_S_2012",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.2288750410079956,
+        "_id": {
+            "$oid": "56f28271ade40705e73fdec2"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_MAZDA_MX-5_2015_STOCK",
+            "Manufacturer": "Mazda",
+            "ManufacturerName": "TEXT_MANUFACTURER_MAZDA",
+            "ShortName": "TEXT_CAR_SHORT_MAZDA_MX-5_2015_STOCK"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Mazda_MX-5_2015_Stock",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0961999893188477,
+        "_id": {
+            "$oid": "56f28272ade40705e73fdec3"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "S",
+            "LongName": "TEXT_CAR_LONG_MCLAREN_P1",
+            "Manufacturer": "McLaren",
+            "ManufacturerName": "TEXT_MANUFACTURER_MCLAREN",
+            "ShortName": "TEXT_CAR_SHORT_MCLAREN_P1"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "McLaren_P1",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.4746500253677368,
+        "_id": {
+            "$oid": "56f28272ade40705e73fdec4"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_MERCEDES_C63_AMG_STOCK",
+            "Manufacturer": "Mercedes",
+            "ManufacturerName": "TEXT_MANUFACTURER_MERCEDES",
+            "ShortName": "TEXT_CAR_SHORT_MERCEDES_C63_AMG_STOCK"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Mercedes_C63_AMG_Stock",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9570000171661377,
+        "_id": {
+            "$oid": "56f28273ade40705e73fdec5"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_SILVIA_S15_2002",
+            "Manufacturer": "Nissan",
+            "ManufacturerName": "TEXT_MANUFACTURER_NISSAN",
+            "ShortName": "TEXT_CAR_SHORT_SILVIA_S15_2002"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Nissan_Silvia_S15_2002",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.8361999988555908,
+        "_id": {
+            "$oid": "56f28274ade40705e73fdec6"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "A",
+            "LongName": "TEXT_CAR_LONG_RUF_35S_STOCK",
+            "Manufacturer": "Ruf",
+            "ManufacturerName": "TEXT_MANUFACTURER_RUF",
+            "ShortName": "TEXT_CAR_SHORT_RUF_35S_STOCK"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ruf_RT_35S_Stock",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.1655000448226929,
+        "_id": {
+            "$oid": "56f28274ade40705e73fdec7"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_SUBARU_IMPREZA_WRX_STI_2015",
+            "Manufacturer": "Subaru",
+            "ManufacturerName": "TEXT_MANUFACTURER_SUBARU",
+            "ShortName": "TEXT_CAR_SHORT_SUBARU_IMPREZA_WRX_STI_2015"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Subaru_Impreza_WRX_STI_2015",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9904937744140625,
+        "_id": {
+            "$oid": "56f28275ade40705e73fdec8"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_TOYOTAGT86",
+            "Manufacturer": "Toyota",
+            "ManufacturerName": "TEXT_MANUFACTURER_TOYOTA",
+            "ShortName": "TEXT_CAR_SHORT_TOYOTAGT86"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "ToyotaGT86",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0,
+        "_id": {
+            "$oid": "56f28276ade40705e73fdec9"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_TOYOTAGT86_STOCK_A",
+            "Manufacturer": "Toyota",
+            "ManufacturerName": "TEXT_MANUFACTURER_TOYOTA",
+            "ShortName": "TEXT_CAR_SHORT_TOYOTAGT86_STOCK_A"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "ToyotaGT86_Stock_A",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0,
+        "_id": {
+            "$oid": "56f28277ade40705e73fdeca"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_FORD_ESCORT_MK1_RS_2000",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_ESCORT_MK1_RS_2000"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Escort_Mk1_RS_2000",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.898859977722168,
+        "_id": {
+            "$oid": "571a2b6ac29058d695503f70"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_SUBARU_BRZ",
+            "Manufacturer": "Subaru",
+            "ManufacturerName": "TEXT_MANUFACTURER_SUBARU",
+            "ShortName": "TEXT_CAR_SHORT_SUBARU_BRZ"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Subaru_BRZ",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9830999970436096,
+        "_id": {
+            "$oid": "57237f8b2de9e962c6eef002"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_RUF_3800SCOUPE",
+            "Manufacturer": "Ruf",
+            "ManufacturerName": "TEXT_MANUFACTURER_RUF",
+            "ShortName": "TEXT_CAR_SHORT_RUF_3800SCOUPE"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "RUF_3800_S_Coupe",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.0814100503921509,
+        "_id": {
+            "$oid": "57482f175b917005f45cf285"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_FORD_MUSTANG_GT",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_MUSTANG_GT"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Mustang_GT",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9570000171661377,
+        "_id": {
+            "$oid": "575e8b5c9c342e05fe3fe347"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "S",
+            "LongName": "TEXT_CAR_LONG_PAGANI_ZONDA_REVOLUCION",
+            "Manufacturer": "Pagani",
+            "ManufacturerName": "TEXT_MANUFACTURER_PAGANI",
+            "ShortName": "TEXT_CAR_SHORT_PAGANI_ZONDA_REVOLUCION"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Pagani_Zonda_Revolucion",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.5,
+        "_id": {
+            "$oid": "576164e76632220604ff07c8"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "A",
+            "LongName": "TEXT_CAR_LONG_MCLAREN_570S_COUPE",
+            "Manufacturer": "McLaren",
+            "ManufacturerName": "TEXT_MANUFACTURER_MCLAREN",
+            "ShortName": "TEXT_CAR_SHORT_MCLAREN_570S_COUPE"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "McLaren_570_S_Coupe",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.7797499895095825,
+        "_id": {
+            "$oid": "576d50fc92c95a70de935510"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "A",
+            "LongName": "TEXT_CAR_LONG_MERCEDES_SLS_AMG_GT3",
+            "Manufacturer": "Mercedes",
+            "ManufacturerName": "TEXT_MANUFACTURER_MERCEDES",
+            "ShortName": "TEXT_CAR_SHORT_MERCEDES_SLS_AMG_GT3"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Mercedes_SLS_AMG_GT3",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.2288750410079956,
+        "_id": {
+            "$oid": "576d50fd92c95a70de935511"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_MERCEDES_AMG_GT",
+            "Manufacturer": "Mercedes",
+            "ManufacturerName": "TEXT_MANUFACTURER_MERCEDES",
+            "ShortName": "TEXT_CAR_SHORT_MERCEDES_AMG_GT"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Mercedes_Benz_AMG_GT",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.8140000104904175,
+        "_id": {
+            "$oid": "5775299f92c95a70de940374"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_BMW_M4",
+            "Manufacturer": "BMW",
+            "ManufacturerName": "TEXT_MANUFACTURER_BMW",
+            "ShortName": "TEXT_CAR_SHORT_BMW_M4"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "BMW_M4",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9570000171661377,
+        "_id": {
+            "$oid": "57d81aa192c95a70de9f8662"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "C",
+            "LongName": "TEXT_CAR_LONG_SUBARU_IMPREZA_WRX_STI_2011",
+            "Manufacturer": "Subaru",
+            "ManufacturerName": "TEXT_MANUFACTURER_SUBARU",
+            "ShortName": "TEXT_CAR_SHORT_SUBARU_IMPREZA_WRX_STI_2011"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Subaru_Impreza_WRX_STI_2011",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 0.9307320713996887,
+        "_id": {
+            "$oid": "5892ffcd0a162ad63e85e7ca"
+        }
+    },
+    {
+        "ClientData": {
+            "Class": "B",
+            "LongName": "TEXT_CAR_LONG_FORD_MUSTANG_GT_WIDE",
+            "Manufacturer": "Ford",
+            "ManufacturerName": "TEXT_MANUFACTURER_FORD",
+            "ShortName": "TEXT_CAR_SHORT_FORD_MUSTANG_GT_WIDE"
+        },
+        "InitialServiceIntervalMultiplier": 1.0,
+        "LapDeductionProportionMultiplier": 1.0,
+        "Model": "Ford_Mustang_GT_Wide",
+        "ServiceCostMultiplier": 1.0,
+        "ServiceTimeMultiplier": 1.0,
+        "UpgradeCostMultiplier": 1.100000023841858,
+        "_id": {
+            "$oid": "5892ffcf0a162ad63e85e7cb"
+        }
+    }
+]
